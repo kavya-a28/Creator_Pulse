@@ -1,0 +1,671 @@
+{
+  "created_utc": "2026-10-26T04:36:34+00:00",
+  "model": {
+    "path": "models/creatorpulse_svm_synthetic.joblib",
+    "pipeline": "TfidfVectorizer -> LinearSVC",
+    "trained_on": "data/processed/splits_v1/video_train.csv + 10002 synthetic rows (data/synthetic/synthetic_comments.csv)",
+    "synthetic_training_rows": {
+      "Question": 1667,
+      "Request": 1667,
+      "Confusion/Problem": 1667,
+      "Praise": 1667,
+      "Spam": 1667,
+      "Other": 1667
+    },
+    "input": "raw comment text (normalised inside the pipeline)",
+    "tfidf": {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "min_df": 2,
+      "sublinear_tf": true,
+      "preprocessor": "src.preprocess.normalize (== text_norm column)",
+      "tokenizer": "src.preprocess.tokenize",
+      "stopwords": null,
+      "lemmatisation": false,
+      "vocabulary_size": 9990
+    },
+    "svm": {
+      "class_weight": "balanced",
+      "C": 1.0,
+      "random_state": 42
+    },
+    "resampling": "synthetic template-generated rows added to training data only; all test sets are real comments",
+    "sample_weights": "none (duplicate_count not used)"
+  },
+  "label_provenance": "Labels were generated automatically by Claude (an AI model) and have not been fully human-verified; they may contain errors. All metrics measure agreement with these AI-generated labels, not accuracy against ground truth. A human-verified test set is needed before claiming real-world accuracy.",
+  "label_column": "label_6class",
+  "classes": [
+    "Question",
+    "Request",
+    "Confusion/Problem",
+    "Praise",
+    "Spam",
+    "Other"
+  ],
+  "dataset_audit": {
+    "labelled_file": {
+      "rows": 1000,
+      "missing_label_6class": 0,
+      "duplicate_comment_ids": 0,
+      "unknown_labels": [],
+      "class_distribution": {
+        "Question": 117,
+        "Request": 153,
+        "Confusion/Problem": 19,
+        "Praise": 219,
+        "Spam": 38,
+        "Other": 454
+      }
+    },
+    "training_rows_after_dedup_and_exclusion": 899,
+    "duplicate_count": {
+      "note": "Number of original comments each kept row stands for after near-duplicate collapsing. Descriptive only - NOT used as a sample weight, because it mixes 'many people said this' with 'one account flooded this'.",
+      "rows_with_duplicates": 24,
+      "total_comments_represented": 990,
+      "max": 21,
+      "per_class_rows": {
+        "Question": 117,
+        "Request": 144,
+        "Confusion/Problem": 19,
+        "Praise": 165,
+        "Spam": 10,
+        "Other": 444
+      },
+      "per_class_comments_represented": {
+        "Question": 117,
+        "Request": 153,
+        "Confusion/Problem": 19,
+        "Praise": 219,
+        "Spam": 33,
+        "Other": 449
+      }
+    },
+    "text_norm_matches_pipeline_normalisation": true
+  },
+  "primary_evaluation_video_split": {
+    "description": "One whole video per channel held out (5 videos); training comments sharing a leakage group with any test comment were purged.",
+    "train_distribution": {
+      "Question": 95,
+      "Request": 113,
+      "Confusion/Problem": 15,
+      "Praise": 123,
+      "Spam": 8,
+      "Other": 351
+    },
+    "test_distribution": {
+      "Question": 22,
+      "Request": 29,
+      "Confusion/Problem": 4,
+      "Praise": 36,
+      "Spam": 2,
+      "Other": 90
+    },
+    "leakage_checks": {
+      "shared_comment_ids": 0,
+      "shared_leakage_groups": 0,
+      "identical_normalised_text": 0,
+      "shared_videos": 0
+    },
+    "majority_class_baseline": {
+      "predicts": "Other",
+      "accuracy": 0.492,
+      "macro_f1": 0.11
+    },
+    "n": 183,
+    "accuracy": 0.716,
+    "macro_f1": 0.649,
+    "weighted_f1": 0.72,
+    "macro_f1_classes_with_support_ge_10": {
+      "classes": [
+        "Question",
+        "Request",
+        "Praise",
+        "Other"
+      ],
+      "value": 0.724
+    },
+    "per_class": {
+      "Question": {
+        "precision": 0.567,
+        "recall": 0.773,
+        "f1": 0.654,
+        "support": 22,
+        "predicted_count": 30,
+        "true_positives": 17,
+        "recall_95ci_wilson": [
+          0.566,
+          0.899
+        ],
+        "reliability": "low"
+      },
+      "Request": {
+        "precision": 0.84,
+        "recall": 0.724,
+        "f1": 0.778,
+        "support": 29,
+        "predicted_count": 25,
+        "true_positives": 21,
+        "recall_95ci_wilson": [
+          0.543,
+          0.853
+        ],
+        "reliability": "low"
+      },
+      "Confusion/Problem": {
+        "precision": 0.375,
+        "recall": 0.75,
+        "f1": 0.5,
+        "support": 4,
+        "predicted_count": 8,
+        "true_positives": 3,
+        "recall_95ci_wilson": [
+          0.301,
+          0.954
+        ],
+        "reliability": "insufficient"
+      },
+      "Praise": {
+        "precision": 0.667,
+        "recall": 0.833,
+        "f1": 0.741,
+        "support": 36,
+        "predicted_count": 45,
+        "true_positives": 30,
+        "recall_95ci_wilson": [
+          0.681,
+          0.921
+        ],
+        "reliability": "adequate"
+      },
+      "Spam": {
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1": 0.5,
+        "support": 2,
+        "predicted_count": 2,
+        "true_positives": 1,
+        "recall_95ci_wilson": [
+          0.095,
+          0.905
+        ],
+        "reliability": "insufficient"
+      },
+      "Other": {
+        "precision": 0.808,
+        "recall": 0.656,
+        "f1": 0.724,
+        "support": 90,
+        "predicted_count": 73,
+        "true_positives": 59,
+        "recall_95ci_wilson": [
+          0.553,
+          0.746
+        ],
+        "reliability": "adequate"
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "Question",
+        "Request",
+        "Confusion/Problem",
+        "Praise",
+        "Spam",
+        "Other"
+      ],
+      "rows_true_cols_pred": [
+        [
+          17,
+          2,
+          0,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          21,
+          0,
+          1,
+          0,
+          5
+        ],
+        [
+          1,
+          0,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          30,
+          0,
+          5
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          10,
+          1,
+          5,
+          14,
+          1,
+          59
+        ]
+      ]
+    },
+    "accuracy_95ci_bootstrap": [
+      0.65,
+      0.781
+    ],
+    "macro_f1_95ci_bootstrap": [
+      0.492,
+      0.759
+    ]
+  },
+  "secondary_evaluation_random_split": {
+    "description": "StratifiedGroupKFold fold 0 (videos shared, leakage groups not shared).",
+    "train_distribution": {
+      "Question": 93,
+      "Request": 115,
+      "Confusion/Problem": 16,
+      "Praise": 132,
+      "Spam": 8,
+      "Other": 355
+    },
+    "test_distribution": {
+      "Question": 24,
+      "Request": 29,
+      "Confusion/Problem": 3,
+      "Praise": 33,
+      "Spam": 2,
+      "Other": 89
+    },
+    "leakage_checks": {
+      "shared_comment_ids": 0,
+      "shared_leakage_groups": 0,
+      "identical_normalised_text": 0,
+      "shared_videos": 23
+    },
+    "n": 180,
+    "accuracy": 0.761,
+    "macro_f1": 0.652,
+    "weighted_f1": 0.763,
+    "macro_f1_classes_with_support_ge_10": {
+      "classes": [
+        "Question",
+        "Request",
+        "Praise",
+        "Other"
+      ],
+      "value": 0.753
+    },
+    "per_class": {
+      "Question": {
+        "precision": 0.613,
+        "recall": 0.792,
+        "f1": 0.691,
+        "support": 24,
+        "predicted_count": 31,
+        "true_positives": 19,
+        "recall_95ci_wilson": [
+          0.595,
+          0.908
+        ],
+        "reliability": "low"
+      },
+      "Request": {
+        "precision": 0.846,
+        "recall": 0.759,
+        "f1": 0.8,
+        "support": 29,
+        "predicted_count": 26,
+        "true_positives": 22,
+        "recall_95ci_wilson": [
+          0.579,
+          0.878
+        ],
+        "reliability": "low"
+      },
+      "Confusion/Problem": {
+        "precision": 0.5,
+        "recall": 0.333,
+        "f1": 0.4,
+        "support": 3,
+        "predicted_count": 2,
+        "true_positives": 1,
+        "recall_95ci_wilson": [
+          0.061,
+          0.792
+        ],
+        "reliability": "insufficient"
+      },
+      "Praise": {
+        "precision": 0.676,
+        "recall": 0.758,
+        "f1": 0.714,
+        "support": 33,
+        "predicted_count": 37,
+        "true_positives": 25,
+        "recall_95ci_wilson": [
+          0.59,
+          0.872
+        ],
+        "reliability": "adequate"
+      },
+      "Spam": {
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1": 0.5,
+        "support": 2,
+        "predicted_count": 2,
+        "true_positives": 1,
+        "recall_95ci_wilson": [
+          0.095,
+          0.905
+        ],
+        "reliability": "insufficient"
+      },
+      "Other": {
+        "precision": 0.841,
+        "recall": 0.775,
+        "f1": 0.807,
+        "support": 89,
+        "predicted_count": 82,
+        "true_positives": 69,
+        "recall_95ci_wilson": [
+          0.678,
+          0.85
+        ],
+        "reliability": "adequate"
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "Question",
+        "Request",
+        "Confusion/Problem",
+        "Praise",
+        "Spam",
+        "Other"
+      ],
+      "rows_true_cols_pred": [
+        [
+          19,
+          2,
+          0,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          22,
+          0,
+          2,
+          0,
+          4
+        ],
+        [
+          2,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          25,
+          0,
+          6
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          8,
+          1,
+          1,
+          9,
+          1,
+          69
+        ]
+      ]
+    },
+    "accuracy_95ci_bootstrap": [
+      0.694,
+      0.822
+    ],
+    "macro_f1_95ci_bootstrap": [
+      0.475,
+      0.786
+    ]
+  },
+  "grouped_5fold_cv": {
+    "description": "Pooled out-of-fold predictions, 5 folds from splits_v1 cv_fold",
+    "folds": [
+      {
+        "fold": 0,
+        "n_test": 180,
+        "accuracy": 0.761,
+        "macro_f1": 0.652
+      },
+      {
+        "fold": 1,
+        "n_test": 180,
+        "accuracy": 0.733,
+        "macro_f1": 0.612
+      },
+      {
+        "fold": 2,
+        "n_test": 180,
+        "accuracy": 0.756,
+        "macro_f1": 0.61
+      },
+      {
+        "fold": 3,
+        "n_test": 179,
+        "accuracy": 0.726,
+        "macro_f1": 0.614
+      },
+      {
+        "fold": 4,
+        "n_test": 180,
+        "accuracy": 0.678,
+        "macro_f1": 0.616
+      }
+    ],
+    "macro_f1_mean_sd": [
+      0.621,
+      0.016
+    ],
+    "pooled": {
+      "n": 899,
+      "accuracy": 0.731,
+      "macro_f1": 0.622,
+      "weighted_f1": 0.733,
+      "macro_f1_classes_with_support_ge_10": {
+        "classes": [
+          "Question",
+          "Request",
+          "Confusion/Problem",
+          "Praise",
+          "Spam",
+          "Other"
+        ],
+        "value": 0.622
+      },
+      "per_class": {
+        "Question": {
+          "precision": 0.609,
+          "recall": 0.718,
+          "f1": 0.659,
+          "support": 117,
+          "predicted_count": 138,
+          "true_positives": 84,
+          "recall_95ci_wilson": [
+            0.63,
+            0.792
+          ],
+          "reliability": "adequate"
+        },
+        "Request": {
+          "precision": 0.771,
+          "recall": 0.771,
+          "f1": 0.771,
+          "support": 144,
+          "predicted_count": 144,
+          "true_positives": 111,
+          "recall_95ci_wilson": [
+            0.696,
+            0.832
+          ],
+          "reliability": "adequate"
+        },
+        "Confusion/Problem": {
+          "precision": 0.36,
+          "recall": 0.474,
+          "f1": 0.409,
+          "support": 19,
+          "predicted_count": 25,
+          "true_positives": 9,
+          "recall_95ci_wilson": [
+            0.273,
+            0.683
+          ],
+          "reliability": "low"
+        },
+        "Praise": {
+          "precision": 0.721,
+          "recall": 0.673,
+          "f1": 0.696,
+          "support": 165,
+          "predicted_count": 154,
+          "true_positives": 111,
+          "recall_95ci_wilson": [
+            0.598,
+            0.74
+          ],
+          "reliability": "adequate"
+        },
+        "Spam": {
+          "precision": 0.444,
+          "recall": 0.4,
+          "f1": 0.421,
+          "support": 10,
+          "predicted_count": 9,
+          "true_positives": 4,
+          "recall_95ci_wilson": [
+            0.168,
+            0.687
+          ],
+          "reliability": "low"
+        },
+        "Other": {
+          "precision": 0.788,
+          "recall": 0.761,
+          "f1": 0.774,
+          "support": 444,
+          "predicted_count": 429,
+          "true_positives": 338,
+          "recall_95ci_wilson": [
+            0.719,
+            0.799
+          ],
+          "reliability": "adequate"
+        }
+      },
+      "confusion_matrix": {
+        "labels": [
+          "Question",
+          "Request",
+          "Confusion/Problem",
+          "Praise",
+          "Spam",
+          "Other"
+        ],
+        "rows_true_cols_pred": [
+          [
+            84,
+            7,
+            3,
+            2,
+            0,
+            21
+          ],
+          [
+            8,
+            111,
+            1,
+            5,
+            0,
+            19
+          ],
+          [
+            4,
+            0,
+            9,
+            1,
+            0,
+            5
+          ],
+          [
+            4,
+            6,
+            1,
+            111,
+            2,
+            41
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            4,
+            5
+          ],
+          [
+            38,
+            20,
+            11,
+            34,
+            3,
+            338
+          ]
+        ]
+      }
+    }
+  },
+  "class_reliability_notes": [
+    "Confusion/Problem: only 4 test example(s) on the video split, so its test precision/recall/F1 cannot be evaluated reliably (recall 95% CI [0.301, 0.954]). Pooled over 5-fold grouped CV (19 examples): precision 0.36, recall 0.474, F1 0.409 - still a small sample.",
+    "Spam: only 2 test example(s) on the video split, so its test precision/recall/F1 cannot be evaluated reliably (recall 95% CI [0.095, 0.905]). Pooled over 5-fold grouped CV (10 examples): precision 0.444, recall 0.4, F1 0.421 - still a small sample."
+  ],
+  "versions": {
+    "python": "3.13.17",
+    "scikit-learn": "1.9.1",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "joblib": "1.6.0"
+  }
+}

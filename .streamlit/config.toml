@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#4F46E5"
+backgroundColor = "#F7F8FC"
+secondaryBackgroundColor = "#F3F4FB"
+textColor = "#12163A"
+
+[server]
+headless = false
+
+[browser]
+gatherUsageStats = false
+
+[client]
+# Hide the developer toolbar (Deploy button) and raw exception details.
+toolbarMode = "viewer"
+showErrorDetails = "none"

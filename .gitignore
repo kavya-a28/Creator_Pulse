@@ -1,0 +1,54 @@
+# ---------------------------------------------------------------
+# Secrets — never commit your API key
+# ---------------------------------------------------------------
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# ---------------------------------------------------------------
+# Python / tooling
+# ---------------------------------------------------------------
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------
+# Editors / OS
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---------------------------------------------------------------
+# Data collected from YouTube (contains commenters' channel IDs) —
+# stays on your computer only
+# ---------------------------------------------------------------
+data/raw/*.csv
+data/raw/app_runs/
+data/runs/
+data/app_settings.json
+
+# Generated pipeline outputs (recreate with: python -m src.pipeline)
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/splits_v1/
+
+# Update archives / scratch files
+*.tgz
+*.zip
+*.log

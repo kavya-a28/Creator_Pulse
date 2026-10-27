@@ -1,0 +1,66 @@
+{
+  "per_class": {
+    "Question": {
+      "candidates": 10002,
+      "unique": 8104,
+      "dropped_near_real": 3,
+      "kept": 1667,
+      "templates": 15
+    },
+    "Request": {
+      "candidates": 10002,
+      "unique": 7976,
+      "dropped_near_real": 59,
+      "kept": 1667,
+      "templates": 12
+    },
+    "Confusion/Problem": {
+      "candidates": 10002,
+      "unique": 4725,
+      "dropped_near_real": 4,
+      "kept": 1667,
+      "templates": 9
+    },
+    "Praise": {
+      "candidates": 10002,
+      "unique": 5993,
+      "dropped_near_real": 288,
+      "kept": 1667,
+      "templates": 9
+    },
+    "Spam": {
+      "candidates": 10002,
+      "unique": 5823,
+      "dropped_near_real": 27,
+      "kept": 1667,
+      "templates": 9
+    },
+    "Other": {
+      "candidates": 10002,
+      "unique": 4216,
+      "dropped_near_real": 67,
+      "kept": 1667,
+      "templates": 10
+    }
+  },
+  "rows": 10002,
+  "class_distribution": {
+    "Question": 1667,
+    "Request": 1667,
+    "Confusion/Problem": 1667,
+    "Praise": 1667,
+    "Spam": 1667,
+    "Other": 1667
+  },
+  "language_distribution": {
+    "en": 6638,
+    "hinglish": 2075,
+    "hi": 921,
+    "emoji": 368
+  },
+  "n_templates": 64,
+  "seed": 42,
+  "per_class_target": 1667,
+  "leakage_filter": "char_wb 3-5 TF-IDF cosine >= 0.7 vs 1000 real comments",
+  "source": "synthetic_template_v1"
+}

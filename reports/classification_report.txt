@@ -1,0 +1,103 @@
+CreatorPulse — TF-IDF + LinearSVC baseline (6 classes, label_6class)
+Generated: 2026-10-26T04:13:17+00:00
+
+LABEL PROVENANCE: Labels were generated automatically by Claude (an AI model) and have not been fully human-verified; they may contain errors. All metrics measure agreement with these AI-generated labels, not accuracy against ground truth. A human-verified test set is needed before claiming real-world accuracy.
+
+Model trained on splits_v1/video_train.csv; features fitted on training data only.
+TF-IDF word 1-2 grams, min_df=2, sublinear_tf, vocabulary=2596; LinearSVC class_weight='balanced'.
+
+Class distribution (train / test, video split):
+  Question             95 /  22
+  Request             113 /  29
+  Confusion/Problem    15 /   4
+  Praise              123 /  36
+  Spam                  8 /   2
+  Other               351 /  90
+
+Majority-class baseline (always 'Other'): accuracy 0.492, macro F1 0.110
+=== PRIMARY: held-out videos (splits_v1 video split) ===
+Test comments: 183
+Accuracy:     0.667  (95% bootstrap CI [0.596, 0.732])
+Macro F1:     0.427  (95% bootstrap CI [0.372, 0.474])
+Weighted F1:  0.657
+Macro F1 over classes with >= 10 test examples (Question, Request, Praise, Other): 0.641
+
+                   precision    recall  f1-score   support
+
+         Question      0.538     0.636     0.583        22
+          Request      0.618     0.724     0.667        29
+Confusion/Problem      0.000     0.000     0.000         4
+           Praise      0.594     0.528     0.559        36
+             Spam      0.000     0.000     0.000         2
+            Other      0.756     0.756     0.756        90
+
+         accuracy                          0.667       183
+        macro avg      0.418     0.441     0.427       183
+     weighted avg      0.651     0.667     0.657       183
+
+Reliability (by test support; recall 95% Wilson CI):
+  Question           support= 22  recall CI=[0.43, 0.803]  -> low
+  Request            support= 29  recall CI=[0.543, 0.853]  -> low
+  Confusion/Problem  support=  4  recall CI=[0.0, 0.49]  -> insufficient
+  Praise             support= 36  recall CI=[0.37, 0.68]  -> adequate
+  Spam               support=  2  recall CI=[0.0, 0.658]  -> insufficient
+  Other              support= 90  recall CI=[0.658, 0.833]  -> adequate
+
+Confusion matrix (rows = dataset label, cols = predicted):
+                     Quest  Reqst   Conf Praise   Spam  Other
+  Question              14      2      0      1      0      5
+  Request                1     21      0      1      0      6
+  Confusion/Problem      3      0      0      0      0      1
+  Praise                 1      8      0     19      0      8
+  Spam                   0      0      0      0      0      2
+  Other                  7      3      1     11      0     68
+
+=== SECONDARY: random stratified-group split ===
+Test comments: 180
+Accuracy:     0.756  (95% bootstrap CI [0.689, 0.817])
+Macro F1:     0.492  (95% bootstrap CI [0.439, 0.536])
+Weighted F1:  0.744
+Macro F1 over classes with >= 10 test examples (Question, Request, Praise, Other): 0.738
+
+                   precision    recall  f1-score   support
+
+         Question      0.667     0.750     0.706        24
+          Request      0.826     0.655     0.731        29
+Confusion/Problem      0.000     0.000     0.000         3
+           Praise      0.697     0.697     0.697        33
+             Spam      0.000     0.000     0.000         2
+            Other      0.784     0.854     0.817        89
+
+         accuracy                          0.756       180
+        macro avg      0.496     0.493     0.492       180
+     weighted avg      0.737     0.756     0.744       180
+
+Reliability (by test support; recall 95% Wilson CI):
+  Question           support= 24  recall CI=[0.551, 0.88]  -> low
+  Request            support= 29  recall CI=[0.473, 0.801]  -> low
+  Confusion/Problem  support=  3  recall CI=[0.0, 0.562]  -> insufficient
+  Praise             support= 33  recall CI=[0.527, 0.826]  -> adequate
+  Spam               support=  2  recall CI=[0.0, 0.658]  -> insufficient
+  Other              support= 89  recall CI=[0.766, 0.913]  -> adequate
+
+Confusion matrix (rows = dataset label, cols = predicted):
+                     Quest  Reqst   Conf Praise   Spam  Other
+  Question              18      1      0      1      0      4
+  Request                1     19      0      2      0      7
+  Confusion/Problem      3      0      0      0      0      0
+  Praise                 0      1      0     23      0      9
+  Spam                   0      0      0      1      0      1
+  Other                  5      2      0      6      0     76
+
+=== Grouped 5-fold CV (pooled out-of-fold, all 899 comments) ===
+Per-fold macro F1 mean 0.455 (sd 0.027); pooled accuracy 0.699, pooled macro F1 0.456, pooled weighted F1 0.688
+  Question           P=0.592 R=0.607 F1=0.599 n=117
+  Request            P=0.733 R=0.688 F1=0.710 n=144
+  Confusion/Problem  P=0.000 R=0.000 F1=0.000 n=19
+  Praise             P=0.717 R=0.630 F1=0.671 n=165
+  Spam               P=0.000 R=0.000 F1=0.000 n=10
+  Other              P=0.720 R=0.797 F1=0.756 n=444
+
+Classes that cannot be evaluated reliably:
+  - Confusion/Problem: only 4 test example(s) on the video split, so its test precision/recall/F1 cannot be evaluated reliably (recall 95% CI [0.0, 0.49]). Pooled over 5-fold grouped CV (19 examples): precision 0.0, recall 0.0, F1 0.0 - still a small sample.
+  - Spam: only 2 test example(s) on the video split, so its test precision/recall/F1 cannot be evaluated reliably (recall 95% CI [0.0, 0.658]). Pooled over 5-fold grouped CV (10 examples): precision 0.0, recall 0.0, F1 0.0 - still a small sample.

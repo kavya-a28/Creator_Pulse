@@ -1,0 +1,579 @@
+{
+  "created_utc": "2026-10-26T04:34:50+00:00",
+  "note": "All test comments are real. Labels on real comments are AI-generated (Claude) and not fully human-verified. Synthetic rows are training-only.",
+  "synthetic_file": "data/synthetic/synthetic_comments.csv",
+  "viewed_comments_excluded_from_cv_unseen": 92,
+  "cv_unseen_rows": 821,
+  "results": [
+    {
+      "name": "real only",
+      "synthetic_rows": 0,
+      "real_training_rows": 705,
+      "video": {
+        "accuracy": 0.667,
+        "macro_f1": 0.427,
+        "weighted_f1": 0.657,
+        "per_class_f1": {
+          "Question": 0.583,
+          "Request": 0.667,
+          "Confusion/Problem": 0.0,
+          "Praise": 0.559,
+          "Spam": 0.0,
+          "Other": 0.756
+        },
+        "per_class_recall": {
+          "Question": "14/22",
+          "Request": "21/29",
+          "Confusion/Problem": "0/4",
+          "Praise": "19/36",
+          "Spam": "0/2",
+          "Other": "68/90"
+        },
+        "macro_f1_95ci": [
+          0.372,
+          0.474
+        ]
+      },
+      "random": {
+        "accuracy": 0.756,
+        "macro_f1": 0.492,
+        "weighted_f1": 0.744,
+        "per_class_f1": {
+          "Question": 0.706,
+          "Request": 0.731,
+          "Confusion/Problem": 0.0,
+          "Praise": 0.697,
+          "Spam": 0.0,
+          "Other": 0.817
+        },
+        "per_class_recall": {
+          "Question": "18/24",
+          "Request": "19/29",
+          "Confusion/Problem": "0/3",
+          "Praise": "23/33",
+          "Spam": "0/2",
+          "Other": "76/89"
+        }
+      },
+      "cv_pooled": {
+        "accuracy": 0.699,
+        "macro_f1": 0.456,
+        "weighted_f1": 0.688,
+        "per_class_f1": {
+          "Question": 0.599,
+          "Request": 0.71,
+          "Confusion/Problem": 0.0,
+          "Praise": 0.671,
+          "Spam": 0.0,
+          "Other": 0.756
+        },
+        "per_class_recall": {
+          "Question": "71/117",
+          "Request": "99/144",
+          "Confusion/Problem": "0/19",
+          "Praise": "104/165",
+          "Spam": "0/10",
+          "Other": "354/444"
+        }
+      },
+      "cv_unseen": {
+        "accuracy": 0.708,
+        "macro_f1": 0.452,
+        "weighted_f1": 0.704,
+        "per_class_f1": {
+          "Question": 0.596,
+          "Request": 0.696,
+          "Confusion/Problem": 0.0,
+          "Praise": 0.655,
+          "Spam": 0.0,
+          "Other": 0.768
+        },
+        "per_class_recall": {
+          "Question": "62/103",
+          "Request": "88/130",
+          "Confusion/Problem": "0/5",
+          "Praise": "91/148",
+          "Spam": "0/6",
+          "Other": "340/429"
+        }
+      }
+    },
+    {
+      "name": "real + 250/class synthetic",
+      "synthetic_rows": 1500,
+      "real_training_rows": 705,
+      "video": {
+        "accuracy": 0.716,
+        "macro_f1": 0.661,
+        "weighted_f1": 0.719,
+        "per_class_f1": {
+          "Question": 0.68,
+          "Request": 0.767,
+          "Confusion/Problem": 0.444,
+          "Praise": 0.658,
+          "Spam": 0.667,
+          "Other": 0.75
+        },
+        "per_class_recall": {
+          "Question": "17/22",
+          "Request": "23/29",
+          "Confusion/Problem": "2/4",
+          "Praise": "25/36",
+          "Spam": "1/2",
+          "Other": "63/90"
+        },
+        "macro_f1_95ci": [
+          0.475,
+          0.768
+        ]
+      },
+      "random": {
+        "accuracy": 0.739,
+        "macro_f1": 0.619,
+        "weighted_f1": 0.74,
+        "per_class_f1": {
+          "Question": 0.706,
+          "Request": 0.727,
+          "Confusion/Problem": 0.4,
+          "Praise": 0.686,
+          "Spam": 0.4,
+          "Other": 0.793
+        },
+        "per_class_recall": {
+          "Question": "18/24",
+          "Request": "20/29",
+          "Confusion/Problem": "1/3",
+          "Praise": "24/33",
+          "Spam": "1/2",
+          "Other": "69/89"
+        }
+      },
+      "cv_pooled": {
+        "accuracy": 0.721,
+        "macro_f1": 0.596,
+        "weighted_f1": 0.721,
+        "per_class_f1": {
+          "Question": 0.656,
+          "Request": 0.75,
+          "Confusion/Problem": 0.4,
+          "Praise": 0.687,
+          "Spam": 0.316,
+          "Other": 0.765
+        },
+        "per_class_recall": {
+          "Question": "80/117",
+          "Request": "108/144",
+          "Confusion/Problem": "8/19",
+          "Praise": "111/165",
+          "Spam": "3/10",
+          "Other": "338/444"
+        }
+      },
+      "cv_unseen": {
+        "accuracy": 0.724,
+        "macro_f1": 0.572,
+        "weighted_f1": 0.728,
+        "per_class_f1": {
+          "Question": 0.651,
+          "Request": 0.738,
+          "Confusion/Problem": 0.2,
+          "Praise": 0.669,
+          "Spam": 0.4,
+          "Other": 0.775
+        },
+        "per_class_recall": {
+          "Question": "71/103",
+          "Request": "96/130",
+          "Confusion/Problem": "2/5",
+          "Praise": "97/148",
+          "Spam": "3/6",
+          "Other": "325/429"
+        }
+      }
+    },
+    {
+      "name": "real + 500/class synthetic",
+      "synthetic_rows": 3000,
+      "real_training_rows": 705,
+      "video": {
+        "accuracy": 0.721,
+        "macro_f1": 0.661,
+        "weighted_f1": 0.725,
+        "per_class_f1": {
+          "Question": 0.653,
+          "Request": 0.778,
+          "Confusion/Problem": 0.4,
+          "Praise": 0.725,
+          "Spam": 0.667,
+          "Other": 0.741
+        },
+        "per_class_recall": {
+          "Question": "16/22",
+          "Request": "21/29",
+          "Confusion/Problem": "2/4",
+          "Praise": "29/36",
+          "Spam": "1/2",
+          "Other": "63/90"
+        },
+        "macro_f1_95ci": [
+          0.479,
+          0.765
+        ]
+      },
+      "random": {
+        "accuracy": 0.739,
+        "macro_f1": 0.571,
+        "weighted_f1": 0.736,
+        "per_class_f1": {
+          "Question": 0.717,
+          "Request": 0.75,
+          "Confusion/Problem": 0.0,
+          "Praise": 0.667,
+          "Spam": 0.5,
+          "Other": 0.793
+        },
+        "per_class_recall": {
+          "Question": "19/24",
+          "Request": "21/29",
+          "Confusion/Problem": "0/3",
+          "Praise": "23/33",
+          "Spam": "1/2",
+          "Other": "69/89"
+        }
+      },
+      "cv_pooled": {
+        "accuracy": 0.724,
+        "macro_f1": 0.606,
+        "weighted_f1": 0.725,
+        "per_class_f1": {
+          "Question": 0.672,
+          "Request": 0.747,
+          "Confusion/Problem": 0.333,
+          "Praise": 0.691,
+          "Spam": 0.421,
+          "Other": 0.769
+        },
+        "per_class_recall": {
+          "Question": "83/117",
+          "Request": "108/144",
+          "Confusion/Problem": "7/19",
+          "Praise": "112/165",
+          "Spam": "4/10",
+          "Other": "337/444"
+        }
+      },
+      "cv_unseen": {
+        "accuracy": 0.724,
+        "macro_f1": 0.573,
+        "weighted_f1": 0.729,
+        "per_class_f1": {
+          "Question": 0.658,
+          "Request": 0.736,
+          "Confusion/Problem": 0.174,
+          "Praise": 0.669,
+          "Spam": 0.429,
+          "Other": 0.776
+        },
+        "per_class_recall": {
+          "Question": "72/103",
+          "Request": "96/130",
+          "Confusion/Problem": "2/5",
+          "Praise": "97/148",
+          "Spam": "3/6",
+          "Other": "324/429"
+        }
+      }
+    },
+    {
+      "name": "real + 1000/class synthetic",
+      "synthetic_rows": 6000,
+      "real_training_rows": 705,
+      "video": {
+        "accuracy": 0.721,
+        "macro_f1": 0.682,
+        "weighted_f1": 0.725,
+        "per_class_f1": {
+          "Question": 0.64,
+          "Request": 0.778,
+          "Confusion/Problem": 0.545,
+          "Praise": 0.725,
+          "Spam": 0.667,
+          "Other": 0.738
+        },
+        "per_class_recall": {
+          "Question": "16/22",
+          "Request": "21/29",
+          "Confusion/Problem": "3/4",
+          "Praise": "29/36",
+          "Spam": "1/2",
+          "Other": "62/90"
+        },
+        "macro_f1_95ci": [
+          0.496,
+          0.786
+        ]
+      },
+      "random": {
+        "accuracy": 0.756,
+        "macro_f1": 0.583,
+        "weighted_f1": 0.753,
+        "per_class_f1": {
+          "Question": 0.741,
+          "Request": 0.772,
+          "Confusion/Problem": 0.0,
+          "Praise": 0.676,
+          "Spam": 0.5,
+          "Other": 0.809
+        },
+        "per_class_recall": {
+          "Question": "20/24",
+          "Request": "22/29",
+          "Confusion/Problem": "0/3",
+          "Praise": "23/33",
+          "Spam": "1/2",
+          "Other": "70/89"
+        }
+      },
+      "cv_pooled": {
+        "accuracy": 0.732,
+        "macro_f1": 0.618,
+        "weighted_f1": 0.733,
+        "per_class_f1": {
+          "Question": 0.672,
+          "Request": 0.768,
+          "Confusion/Problem": 0.381,
+          "Praise": 0.694,
+          "Spam": 0.421,
+          "Other": 0.774
+        },
+        "per_class_recall": {
+          "Question": "84/117",
+          "Request": "111/144",
+          "Confusion/Problem": "8/19",
+          "Praise": "111/165",
+          "Spam": "4/10",
+          "Other": "340/444"
+        }
+      },
+      "cv_unseen": {
+        "accuracy": 0.732,
+        "macro_f1": 0.581,
+        "weighted_f1": 0.737,
+        "per_class_f1": {
+          "Question": 0.658,
+          "Request": 0.756,
+          "Confusion/Problem": 0.182,
+          "Praise": 0.678,
+          "Spam": 0.429,
+          "Other": 0.782
+        },
+        "per_class_recall": {
+          "Question": "73/103",
+          "Request": "99/130",
+          "Confusion/Problem": "2/5",
+          "Praise": "97/148",
+          "Spam": "3/6",
+          "Other": "327/429"
+        }
+      }
+    },
+    {
+      "name": "real + all synthetic (10002)",
+      "synthetic_rows": 10002,
+      "real_training_rows": 705,
+      "video": {
+        "accuracy": 0.716,
+        "macro_f1": 0.649,
+        "weighted_f1": 0.72,
+        "per_class_f1": {
+          "Question": 0.654,
+          "Request": 0.778,
+          "Confusion/Problem": 0.5,
+          "Praise": 0.741,
+          "Spam": 0.5,
+          "Other": 0.724
+        },
+        "per_class_recall": {
+          "Question": "17/22",
+          "Request": "21/29",
+          "Confusion/Problem": "3/4",
+          "Praise": "30/36",
+          "Spam": "1/2",
+          "Other": "59/90"
+        },
+        "macro_f1_95ci": [
+          0.492,
+          0.759
+        ]
+      },
+      "random": {
+        "accuracy": 0.761,
+        "macro_f1": 0.652,
+        "weighted_f1": 0.763,
+        "per_class_f1": {
+          "Question": 0.691,
+          "Request": 0.8,
+          "Confusion/Problem": 0.4,
+          "Praise": 0.714,
+          "Spam": 0.5,
+          "Other": 0.807
+        },
+        "per_class_recall": {
+          "Question": "19/24",
+          "Request": "22/29",
+          "Confusion/Problem": "1/3",
+          "Praise": "25/33",
+          "Spam": "1/2",
+          "Other": "69/89"
+        }
+      },
+      "cv_pooled": {
+        "accuracy": 0.731,
+        "macro_f1": 0.622,
+        "weighted_f1": 0.733,
+        "per_class_f1": {
+          "Question": 0.659,
+          "Request": 0.771,
+          "Confusion/Problem": 0.409,
+          "Praise": 0.696,
+          "Spam": 0.421,
+          "Other": 0.774
+        },
+        "per_class_recall": {
+          "Question": "84/117",
+          "Request": "111/144",
+          "Confusion/Problem": "9/19",
+          "Praise": "111/165",
+          "Spam": "4/10",
+          "Other": "338/444"
+        }
+      },
+      "cv_unseen": {
+        "accuracy": 0.73,
+        "macro_f1": 0.578,
+        "weighted_f1": 0.736,
+        "per_class_f1": {
+          "Question": 0.643,
+          "Request": 0.759,
+          "Confusion/Problem": 0.174,
+          "Praise": 0.681,
+          "Spam": 0.429,
+          "Other": 0.781
+        },
+        "per_class_recall": {
+          "Question": "73/103",
+          "Request": "99/130",
+          "Confusion/Problem": "2/5",
+          "Praise": "97/148",
+          "Spam": "3/6",
+          "Other": "325/429"
+        }
+      }
+    },
+    {
+      "name": "synthetic only",
+      "synthetic_rows": 10002,
+      "real_training_rows": 0,
+      "video": {
+        "accuracy": 0.508,
+        "macro_f1": 0.462,
+        "weighted_f1": 0.487,
+        "per_class_f1": {
+          "Question": 0.385,
+          "Request": 0.733,
+          "Confusion/Problem": 0.375,
+          "Praise": 0.696,
+          "Spam": 0.222,
+          "Other": 0.36
+        },
+        "per_class_recall": {
+          "Question": "15/22",
+          "Request": "22/29",
+          "Confusion/Problem": "3/4",
+          "Praise": "32/36",
+          "Spam": "1/2",
+          "Other": "20/90"
+        },
+        "macro_f1_95ci": [
+          0.366,
+          0.548
+        ]
+      },
+      "random": {
+        "accuracy": 0.522,
+        "macro_f1": 0.448,
+        "weighted_f1": 0.519,
+        "per_class_f1": {
+          "Question": 0.553,
+          "Request": 0.75,
+          "Confusion/Problem": 0.118,
+          "Praise": 0.593,
+          "Spam": 0.25,
+          "Other": 0.426
+        },
+        "per_class_recall": {
+          "Question": "21/24",
+          "Request": "21/29",
+          "Confusion/Problem": "1/3",
+          "Praise": "24/33",
+          "Spam": "1/2",
+          "Other": "26/89"
+        }
+      },
+      "cv_pooled": {
+        "accuracy": 0.495,
+        "macro_f1": 0.439,
+        "weighted_f1": 0.489,
+        "per_class_f1": {
+          "Question": 0.493,
+          "Request": 0.693,
+          "Confusion/Problem": 0.194,
+          "Praise": 0.594,
+          "Spam": 0.261,
+          "Other": 0.401
+        },
+        "per_class_recall": {
+          "Question": "92/117",
+          "Request": "106/144",
+          "Confusion/Problem": "10/19",
+          "Praise": "112/165",
+          "Spam": "6/10",
+          "Other": "119/444"
+        }
+      },
+      "cv_unseen": {
+        "accuracy": 0.48,
+        "macro_f1": 0.396,
+        "weighted_f1": 0.485,
+        "per_class_f1": {
+          "Question": 0.469,
+          "Request": 0.683,
+          "Confusion/Problem": 0.075,
+          "Praise": 0.581,
+          "Spam": 0.162,
+          "Other": 0.404
+        },
+        "per_class_recall": {
+          "Question": "79/103",
+          "Request": "95/130",
+          "Confusion/Problem": "3/5",
+          "Praise": "99/148",
+          "Spam": "3/6",
+          "Other": "115/429"
+        }
+      }
+    }
+  ],
+  "video_macro_f1_paired_bootstrap_all_synthetic_minus_real": {
+    "mean_diff": 0.2,
+    "ci95": [
+      0.07,
+      0.334
+    ],
+    "share_of_resamples_where_synthetic_is_better": 1.0
+  },
+  "synthetic_test_on_synthetic_train_DO_NOT_USE": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  }
+}

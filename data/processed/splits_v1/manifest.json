@@ -1,0 +1,98 @@
+{
+  "created_utc": "2026-10-24T13:15:50+00:00",
+  "command": "python -m src.make_splits --seed 42 --threshold 0.7 --draws 5000",
+  "seed": 42,
+  "leakage_threshold": 0.7,
+  "n_folds": 5,
+  "video_draws": 5000,
+  "inputs_sha256": {
+    "data/processed/training_comments.csv": "c1c9b40ec6c2bda63540a4aae5a4b065ea80b4dd9ed5f3ea5ec56dd66edc8b9e",
+    "data/raw/educational_comments.csv": "76ac3eb761658cdee1e1a8477d2c952358a66faff44a99f4a7835fac578079f4"
+  },
+  "versions": {
+    "python": "3.13.17",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1",
+    "nltk": "3.10.4"
+  },
+  "rows": {
+    "input": 900,
+    "excluded": 1,
+    "used": 899
+  },
+  "leakage_groups": {
+    "count": 841,
+    "largest": 4
+  },
+  "split_random": {
+    "train_rows": 719,
+    "test_rows": 180,
+    "train_labels": {
+      "Other": 355,
+      "Praise": 132,
+      "Question": 109,
+      "Request": 115,
+      "Spam": 8
+    },
+    "test_labels": {
+      "Other": 89,
+      "Praise": 33,
+      "Question": 27,
+      "Request": 29,
+      "Spam": 2
+    },
+    "shared_authors": 0,
+    "shared_videos": 23,
+    "shared_leakage_groups": 0,
+    "similarity": {
+      "identical_normalised_text_across_split": 0,
+      "max_similarity": 0.691,
+      "test_rows_with_train_neighbour_>=0.70": 0,
+      "test_rows_with_train_neighbour_>=0.60": 10
+    }
+  },
+  "split_video": {
+    "train_rows": 705,
+    "test_rows": 183,
+    "train_labels": {
+      "Other": 351,
+      "Praise": 123,
+      "Question": 110,
+      "Request": 113,
+      "Spam": 8
+    },
+    "test_labels": {
+      "Other": 90,
+      "Praise": 36,
+      "Question": 26,
+      "Request": 29,
+      "Spam": 2
+    },
+    "shared_authors": 0,
+    "shared_videos": 0,
+    "shared_leakage_groups": 0,
+    "similarity": {
+      "identical_normalised_text_across_split": 0,
+      "max_similarity": 0.691,
+      "test_rows_with_train_neighbour_>=0.70": 0,
+      "test_rows_with_train_neighbour_>=0.60": 7
+    },
+    "purged_from_train": 11,
+    "test_videos": {
+      "-UZPUkl_KwE": "CodeWithHarry",
+      "JGly6PSK5iw": "freeCodeCamp.org",
+      "ausLKMojXaY": "3Blue1Brown",
+      "kc6J2sQR8VM": "Physics Wallah - Alakh Pandey",
+      "mS5lTKaOt_4": "Apna College"
+    }
+  },
+  "cv_fold_sizes": {
+    "0": 180,
+    "1": 180,
+    "2": 180,
+    "3": 179,
+    "4": 180
+  }
+}

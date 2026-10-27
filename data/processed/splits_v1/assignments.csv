@@ -1,0 +1,900 @@
+﻿comment_id,video_id,channel_title,label,leakage_group,cv_fold,split_random,split_video
+UgzdMV9OPkXRrxJsPwN4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,0,3,train,test
+UgzeL17Xz5z-dNHvM1p4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,1,4,train,test
+Ugwkbs578NSGXZnOep14AaABAg,-UZPUkl_KwE,CodeWithHarry,Other,2,3,train,test
+Ugzl1fVpbv8aJyvfGYh4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,3,2,train,test
+UgzGiNA83G7aljQIU0N4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,4,1,train,test
+UgxqhJVq0DUAegHiyd54AaABAg,-UZPUkl_KwE,CodeWithHarry,Request,5,1,train,test
+UgwzXQubwEe8fSsnYlF4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,6,4,train,test
+UgzZRnbxYg6ZhN6Ywjd4AaABAg,-UZPUkl_KwE,CodeWithHarry,Question,7,0,test,test
+UgwqfK8T3b_aNaw-QUZ4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,8,0,test,test
+Ugz_kpu_c2MSOCZJrhV4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,9,4,train,test
+UgxI7Sae_13iRL_uUp54AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,10,2,train,test
+UgzNJwWhif1fkP_hfzF4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,11,3,train,test
+UgwMZx4svjIL2DpuYrh4AaABAg,-UZPUkl_KwE,CodeWithHarry,Other,12,0,test,test
+UgxqiWa6mRHwH78eCzh4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,13,2,train,test
+UgwGfBM0VgZejSR8cwp4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,14,4,train,test
+UgxCPijH5CxhbcLWuB14AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,15,0,test,test
+Ugy2RHgpYeAB2mk8Qy54AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,16,3,train,test
+Ugy_daWk-xV814_QLVh4AaABAg,-UZPUkl_KwE,CodeWithHarry,Other,14,4,train,test
+UgxiIesO5EyZlibNm254AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,14,4,train,test
+UgyrOnWO2f4BgX5FKFt4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,17,3,train,test
+UgzE8bPoWgRONnTZuw94AaABAg,-UZPUkl_KwE,CodeWithHarry,Request,18,2,train,test
+UgzXcZSGGwRwszWKImV4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,19,0,test,test
+Ugw2zblvUkmlRsAorhV4AaABAg,-UZPUkl_KwE,CodeWithHarry,Request,20,3,train,test
+Ugy5pw315iu7olRiEGV4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,21,4,train,test
+Ugx0VdH_pReIZI5xPyR4AaABAg,-UZPUkl_KwE,CodeWithHarry,Question,22,0,test,test
+Ugy0RQHJWAWZrC7i15J4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,23,1,train,test
+Ugx23JJKvkRojKaX0mZ4AaABAg,-UZPUkl_KwE,CodeWithHarry,Other,24,0,test,test
+Ugyozslvxqq4f7vLJOZ4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,24,0,test,test
+UgwMrh76oIXJC2tBmJt4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,25,1,train,test
+UgwQmZAIQuELfhUeAMZ4AaABAg,-UZPUkl_KwE,CodeWithHarry,Other,26,1,train,test
+UgxVqKimHrL84xXi3o54AaABAg,-UZPUkl_KwE,CodeWithHarry,Question,27,0,test,test
+Ugz_kC3R57Bj44UJCDx4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,28,2,train,test
+UgzlYhMOTDV6TqxHnkZ4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,29,4,train,test
+Ugyvg30uCTrM3GBUDo94AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,30,2,train,test
+Ugx_GYR2TJYnIDjUBgp4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,31,2,train,test
+Ugyz4IHZnIR_Xq6JZSh4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,32,0,test,test
+UgzFpUt_TJs0envP_Rx4AaABAg,-UZPUkl_KwE,CodeWithHarry,Praise,4,1,train,test
+Ugw4gNmW6zTNgOC8YTB4AaABAg,-UZPUkl_KwE,CodeWithHarry,Request,33,0,test,test
+Ugx_8BIwzD0Rwbu-_vV4AaABAg,-UZPUkl_KwE,CodeWithHarry,Other,34,4,train,test
+UgxxSz1wEKWnqXgBM6N4AaABAg,vsAAgH_nYzM,CodeWithHarry,Question,35,1,train,train
+UgwPJzEyi1UqeTQOBVp4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,36,2,train,train
+Ugwa_iC5AbZeVfeWzoZ4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,37,1,train,train
+Ugw-3EeGVEkg51F_Ycl4AaABAg,vsAAgH_nYzM,CodeWithHarry,Spam,38,0,test,train
+UgzU7MjhtSVjQB5T8zF4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,39,4,train,train
+UgzufHhu5hgfE99xhcx4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,40,4,train,train
+UgxyC4VqLcXSEwRwWGl4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,41,4,train,train
+Ugz901JQ4mtjFGb4jgB4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,42,0,test,train
+UgwHNdPAMxrEeaAYYDl4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,43,3,train,train
+Ugykykg9Pvf_pLKAv8B4AaABAg,vsAAgH_nYzM,CodeWithHarry,Question,44,3,train,train
+UgztqHm8KC7MrIcA_-54AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,45,4,train,train
+UgymBYO0uufHX6BoRS94AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,46,3,train,train
+UgzcSa8j3yD-cd6mgKp4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,47,3,train,train
+Ugw_7Lts4lDKHTijasJ4AaABAg,vsAAgH_nYzM,CodeWithHarry,Spam,48,1,train,train
+UgyfDnI6G0RcBW7_wel4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,49,3,train,train
+UgwlAT56KIFxJbQ9gBZ4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,50,2,train,train
+Ugzsp7V5PQQehoAi6Yp4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,51,1,train,train
+UgwKw6F2XNFEgxwt7F94AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,52,2,train,train
+Ugzbd9fS3ahAnG2foeR4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,53,4,train,train
+Ugys8Xa5GHSNrMQ7oIR4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,54,0,test,train
+UgyosVVNknn7T7voIeB4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,55,2,train,train
+UgzjUwJUcJ1Ty-u70mp4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,56,2,train,train
+UgzrLjFeKk8ugfAQp1R4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,57,4,train,train
+UgxWKFgXubafkLM-ZLV4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,58,2,train,train
+UgwdNCdtANQrE-Zoe7Z4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,59,4,train,train
+UgwUMD1W63sAr57xpp94AaABAg,vsAAgH_nYzM,CodeWithHarry,Praise,60,4,train,train
+Ugx7hYtRBo3WjbIUcvl4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,61,4,train,train
+UgzpGCO0TsokGWOM_vx4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,62,0,test,train
+Ugzvh9NzsU1TXVbwicB4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,63,0,test,train
+Ugx6xF6qzdP8CbIgzpR4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,64,1,train,train
+UgwrNZXt0RkmIopSRH14AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,65,1,train,train
+UgyL45aXGTgIlz9yVYd4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,66,3,train,train
+UgwNx4fRmnA1usuksTV4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,67,1,train,train
+Ugwa_i_hL1FlM11MAOp4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,68,1,train,train
+UgwOG-AYfE4In8xmpkF4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,68,1,train,train
+UgzhhoC5gdSObxZc8pR4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,69,3,train,train
+UgzdrB83DdIHOCEhI8d4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,70,1,train,train
+UgwqMz-Y4pPT-OiYsYV4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,71,1,train,train
+UgzhKvPPH91yer301L94AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,72,4,train,train
+Ugw0O2smVQH00nGobBl4AaABAg,vsAAgH_nYzM,CodeWithHarry,Question,73,3,train,train
+UgyBdrxlBOS9eKC96xF4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,74,1,train,train
+UgyIw-PEKfGZ-DzRUFN4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,75,4,train,train
+UgyIp9SGOIjP0VY7LRp4AaABAg,vsAAgH_nYzM,CodeWithHarry,Praise,76,1,train,train
+UgzTGxOAJsmvMgWgWIp4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,77,2,train,train
+UgyMrBPDzIzcP-C4omx4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,78,2,train,train
+Ugzkp1IOELK28AB1v7N4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,79,1,train,train
+UgwuZo6ghTnN_LC-72l4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,80,3,train,train
+Ugw2djcQcW6qhHY0Akx4AaABAg,vsAAgH_nYzM,CodeWithHarry,Request,81,3,train,train
+UgwJGoCZhrTmA-HYcVh4AaABAg,vsAAgH_nYzM,CodeWithHarry,Other,82,4,train,train
+Ugyfhx1YWtgnemScfIV4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,83,0,test,train
+Ugyn0WZue4KoIfjPgA94AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,84,3,train,train
+Ugzjj7jVNQjIND6XnF54AaABAg,sqGoC2FRYfY,CodeWithHarry,Praise,85,3,train,train
+Ugy57DVJotaHP9hWaTt4AaABAg,sqGoC2FRYfY,CodeWithHarry,Praise,85,3,train,train
+UgwoBtbHGOHEpSL6rSF4AaABAg,sqGoC2FRYfY,CodeWithHarry,Praise,86,4,train,train
+UgwYg8YIhL5dTWQgdmd4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,87,3,train,train
+Ugzkh8avEFAf1AG-P-94AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,88,4,train,train
+UgwF5zBemvqZcvjYUGp4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,89,3,train,train
+UgwW4NXpPX61EdtsX054AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,90,0,test,train
+Ugzt5dK-fX3wJW1up6x4AaABAg,sqGoC2FRYfY,CodeWithHarry,Question,91,4,train,train
+Ugy3q1T4FAenFAQ1Ag94AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,92,1,train,train
+UgywlH_WNTPMMFp7vAd4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,93,2,train,train
+UgyPSqKTZVvDdYqGX-p4AaABAg,sqGoC2FRYfY,CodeWithHarry,Praise,94,0,test,train
+UgxxGQCtLugHV9M6Rb94AaABAg,sqGoC2FRYfY,CodeWithHarry,Other,95,2,train,train
+UgxkWBgKmoAF-_ZmMjB4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,96,2,train,train
+UgwTiyY07XLm1xO0Q2V4AaABAg,sqGoC2FRYfY,CodeWithHarry,Other,97,2,train,train
+Ugwv3x1KHJvGjXDlZY14AaABAg,sqGoC2FRYfY,CodeWithHarry,Question,98,3,train,train
+UgzQmiYVzl-4K5F3iXR4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,99,4,train,train
+Ugz1KEi8fPEZG_MjDWB4AaABAg,sqGoC2FRYfY,CodeWithHarry,Question,100,2,train,train
+Ugy-0Et94NoYJhwKvJN4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,101,4,train,train
+UgwNh4spl5Nw-1-V3u94AaABAg,sqGoC2FRYfY,CodeWithHarry,Question,102,2,train,train
+Ugxp1tnFkSErxYY8aGt4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,103,2,train,train
+UgxPfRt0R5TL1r2iOrZ4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,104,1,train,train
+Ugw0w4mmHCWzKEvCxRF4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,105,4,train,train
+UgxXOu-1dcqyJHeX0Yt4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,106,4,train,train
+UgzWF6KckKNFiqRfxkh4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,107,1,train,train
+UgxEbunKWqDMwQPezYN4AaABAg,sqGoC2FRYfY,CodeWithHarry,Praise,108,4,train,train
+UgySy940yq2K_61y7jV4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,109,3,train,train
+Ugy18cb70NgpQfesn8J4AaABAg,sqGoC2FRYfY,CodeWithHarry,Praise,9,4,train,purged
+UgwzOlLPdDtkKCmRRxx4AaABAg,sqGoC2FRYfY,CodeWithHarry,Praise,110,4,train,train
+Ugz4wBYcuLgCSzGVdP54AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,111,1,train,train
+UgyNIwg_A9d90qakdK94AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,112,1,train,train
+UgwsGe2EWWy8e7cyhBp4AaABAg,sqGoC2FRYfY,CodeWithHarry,Other,113,4,train,train
+UgwiNUAGIK9nU_irEBh4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,114,4,train,train
+UgxbvuLZH7sNvt4Qk814AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,83,0,test,train
+UgzAR3BeniLjDHN00Qt4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,115,4,train,train
+UgwYgKtqKt08Np9lLWB4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,116,2,train,train
+UgzyknkzfhdOLOgBk-N4AaABAg,sqGoC2FRYfY,CodeWithHarry,Praise,117,1,train,train
+Ugw3NRV_A0jk8VT85ZB4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,118,1,train,train
+UgyCPwzp1I9dfDenQjx4AaABAg,sqGoC2FRYfY,CodeWithHarry,Praise,119,2,train,train
+UgyJUftE5KqPYr0HveN4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,120,1,train,train
+UgwjKIWQHryf3vIq1rt4AaABAg,sqGoC2FRYfY,CodeWithHarry,Request,121,2,train,train
+UgypTvX7rSUwD6dHMrR4AaABAg,M7huGDyChHM,CodeWithHarry,Other,122,2,train,train
+UgzYkq4PYWyvfdCQiD54AaABAg,M7huGDyChHM,CodeWithHarry,Other,123,3,train,train
+UgxLBwxWoL_gkGEBuMB4AaABAg,M7huGDyChHM,CodeWithHarry,Question,124,1,train,train
+UgyBDPcv0icSSOGsanZ4AaABAg,M7huGDyChHM,CodeWithHarry,Other,125,0,test,train
+Ugz1hGt_g54jH1JnMAR4AaABAg,M7huGDyChHM,CodeWithHarry,Other,126,3,train,train
+UgxB4wsCfN0I3GXSyeB4AaABAg,M7huGDyChHM,CodeWithHarry,Other,127,1,train,train
+UgwU7mQNb0Z6yq2gpuh4AaABAg,M7huGDyChHM,CodeWithHarry,Other,128,4,train,train
+UgxV38WNhu_qnz97_9Z4AaABAg,M7huGDyChHM,CodeWithHarry,Other,129,0,test,train
+UgyDcE08OXXuJzlFh_l4AaABAg,M7huGDyChHM,CodeWithHarry,Other,130,3,train,train
+UgyIeQk6KgqUvVmQaNd4AaABAg,M7huGDyChHM,CodeWithHarry,Praise,131,1,train,train
+UgwAQsM8ZGY5iDZGeYp4AaABAg,M7huGDyChHM,CodeWithHarry,Other,132,1,train,train
+Ugyxh7CAhZp9wy6z3ol4AaABAg,M7huGDyChHM,CodeWithHarry,Other,133,1,train,train
+Ugxhe6OQY9srbtMMdd94AaABAg,M7huGDyChHM,CodeWithHarry,Other,134,4,train,train
+UgzjzZp70e7w6lWxHVR4AaABAg,M7huGDyChHM,CodeWithHarry,Question,135,2,train,train
+UgwZhipuOEJ-eLKJgJB4AaABAg,M7huGDyChHM,CodeWithHarry,Other,136,2,train,train
+UgyXfD-6yIYxSlFB2gF4AaABAg,M7huGDyChHM,CodeWithHarry,Other,137,4,train,train
+UgzGghx_I6JiHQ2PAyp4AaABAg,M7huGDyChHM,CodeWithHarry,Other,138,3,train,train
+UgzbqA1GaEjmlU9EKVV4AaABAg,M7huGDyChHM,CodeWithHarry,Other,139,3,train,train
+Ugxpl9iybiCgue7tVzN4AaABAg,M7huGDyChHM,CodeWithHarry,Other,140,1,train,train
+UgwmSIZeX42_G9DtcgZ4AaABAg,M7huGDyChHM,CodeWithHarry,Other,141,4,train,train
+Ugw4lwCU-SBVRHBFgV54AaABAg,M7huGDyChHM,CodeWithHarry,Other,142,2,train,train
+UgzfA0wyp-JB5AjiAcF4AaABAg,M7huGDyChHM,CodeWithHarry,Other,143,2,train,train
+UgxURIglAP4eoOmSTpp4AaABAg,M7huGDyChHM,CodeWithHarry,Other,144,1,train,train
+UgyZNoZPFqxxJcYi1F54AaABAg,M7huGDyChHM,CodeWithHarry,Other,145,0,test,train
+UgzE1hOTJ-hEOp_jn494AaABAg,M7huGDyChHM,CodeWithHarry,Other,146,2,train,train
+UgzEesW_woJXCWlB6MR4AaABAg,M7huGDyChHM,CodeWithHarry,Request,147,3,train,train
+UgwdAgwle1lp6n78_D54AaABAg,M7huGDyChHM,CodeWithHarry,Other,148,3,train,train
+UgwSH4tSoeqdYmtERTR4AaABAg,M7huGDyChHM,CodeWithHarry,Other,149,0,test,train
+Ugz5cNHG_WiytL_pQhN4AaABAg,M7huGDyChHM,CodeWithHarry,Question,150,1,train,train
+Ugzmdcql-ZIyQiStpKV4AaABAg,M7huGDyChHM,CodeWithHarry,Other,151,4,train,train
+UgztCPLvEsXlwuKHWFV4AaABAg,M7huGDyChHM,CodeWithHarry,Other,152,2,train,train
+UgwBVuQjsdYpt6O__RR4AaABAg,M7huGDyChHM,CodeWithHarry,Other,153,3,train,train
+UgwjVwP1B5QGTEPUSEh4AaABAg,M7huGDyChHM,CodeWithHarry,Other,154,1,train,train
+UgxT6eqwXM0pNjfcSX54AaABAg,M7huGDyChHM,CodeWithHarry,Spam,155,3,train,train
+Ugz1LFYva0NUJ0XxwjR4AaABAg,GeVCpohRU8Y,Apna College,Other,156,2,train,train
+UgzPr-FBCTf5NPThkHB4AaABAg,GeVCpohRU8Y,Apna College,Praise,157,1,train,train
+Ugy3yFao7cYagC34fD54AaABAg,GeVCpohRU8Y,Apna College,Praise,158,2,train,train
+UgwaGiYR8z3b75byD3t4AaABAg,GeVCpohRU8Y,Apna College,Request,159,3,train,train
+UgwNTxrPFSw3Hof-Nhx4AaABAg,GeVCpohRU8Y,Apna College,Other,160,0,test,train
+Ugyig3Pm7fpIYMWcGcx4AaABAg,GeVCpohRU8Y,Apna College,Question,161,2,train,train
+UgxhDdr1aNGh0ZgWVeh4AaABAg,GeVCpohRU8Y,Apna College,Request,162,3,train,train
+UgxwFqq_cUsAqFj3pct4AaABAg,GeVCpohRU8Y,Apna College,Request,163,3,train,train
+UgzVN3VaTwxtGXnP2nN4AaABAg,GeVCpohRU8Y,Apna College,Question,164,0,test,train
+Ugynhweszdu5EjG84iN4AaABAg,GeVCpohRU8Y,Apna College,Request,165,3,train,train
+UgxvcNILsliijSMwW-N4AaABAg,GeVCpohRU8Y,Apna College,Request,166,3,train,train
+UgzkeEsD8XjVidE40PZ4AaABAg,GeVCpohRU8Y,Apna College,Request,167,2,train,train
+UgyZRhbxGwipTvzqKXl4AaABAg,GeVCpohRU8Y,Apna College,Request,168,4,train,train
+UgwPcTsXmARMspqgdel4AaABAg,GeVCpohRU8Y,Apna College,Other,169,2,train,train
+Ugx1X39O2epEiFPVYpl4AaABAg,GeVCpohRU8Y,Apna College,Other,169,2,train,train
+UgxZdd3W1lHbkzdpHGl4AaABAg,GeVCpohRU8Y,Apna College,Question,170,4,train,train
+Ugzo69InadKTupAszBd4AaABAg,GeVCpohRU8Y,Apna College,Other,171,0,test,train
+UgxHGRDAdXB91XYD9PF4AaABAg,GeVCpohRU8Y,Apna College,Question,172,1,train,train
+UgxCRFhyJ2HO-dZOND94AaABAg,GeVCpohRU8Y,Apna College,Praise,173,1,train,train
+Ugw9ocgp5F-oIQfb7Up4AaABAg,GeVCpohRU8Y,Apna College,Praise,174,2,train,train
+Ugz48lZW8KcJmtyg24N4AaABAg,GeVCpohRU8Y,Apna College,Praise,175,0,test,train
+Ugxc-ZD7e_pUn3XpebJ4AaABAg,GeVCpohRU8Y,Apna College,Request,176,0,test,train
+Ugy3bvLe_pHXPVgcDkN4AaABAg,GeVCpohRU8Y,Apna College,Praise,177,1,train,train
+Ugxr2lcFfTwUqqgyNAV4AaABAg,GeVCpohRU8Y,Apna College,Question,178,4,train,train
+Ugxje2TmWiS0Gfnjbsh4AaABAg,GeVCpohRU8Y,Apna College,Request,179,2,train,train
+Ugy4I4fkU7nYyxBYjid4AaABAg,GeVCpohRU8Y,Apna College,Question,180,1,train,train
+UgwIcbqwuhKZvk-bcFx4AaABAg,GeVCpohRU8Y,Apna College,Question,181,2,train,train
+UgyPUWB8FQfGz-mGJlh4AaABAg,GeVCpohRU8Y,Apna College,Request,182,3,train,train
+UgwKIqmgOphhVU30C5h4AaABAg,GeVCpohRU8Y,Apna College,Request,183,2,train,train
+UgwNNJPmy99sPgv8rsl4AaABAg,GeVCpohRU8Y,Apna College,Question,184,4,train,train
+UgzZr6PqvO3XxZyUsKl4AaABAg,GeVCpohRU8Y,Apna College,Request,185,0,test,train
+UgyGtqC7lHtrNRrSwKp4AaABAg,GeVCpohRU8Y,Apna College,Question,186,2,train,train
+UgxcYacf9R_BS1AJqKp4AaABAg,GeVCpohRU8Y,Apna College,Question,187,0,test,train
+UgyCVxUzno2kF3Ti7YJ4AaABAg,GeVCpohRU8Y,Apna College,Question,188,3,train,train
+Ugzo3BOCwbRWQrK3QwN4AaABAg,GeVCpohRU8Y,Apna College,Praise,189,3,train,train
+UgzX3n8cHep_T-JFvKV4AaABAg,GeVCpohRU8Y,Apna College,Question,190,0,test,train
+Ugws8Z07-zFE2LM4e1J4AaABAg,GeVCpohRU8Y,Apna College,Request,191,0,test,train
+UgxuERefDMoV6IDXj1l4AaABAg,GeVCpohRU8Y,Apna College,Question,192,1,train,train
+Ugxc8Mc-ZJ8pCT7Ms4Z4AaABAg,GeVCpohRU8Y,Apna College,Other,193,3,train,train
+Ugz0N2dJ3xUQkGKlmj54AaABAg,GeVCpohRU8Y,Apna College,Praise,194,3,train,train
+UgwrxD2XdRVNM3FKucp4AaABAg,GeVCpohRU8Y,Apna College,Request,195,0,test,train
+Ugyuk1ptaJTckjaUZpd4AaABAg,GeVCpohRU8Y,Apna College,Request,196,0,test,train
+UgzV-ohZeV7LzXgxHCN4AaABAg,GeVCpohRU8Y,Apna College,Question,197,4,train,train
+UgynEgiOPkYu1f7w9il4AaABAg,GeVCpohRU8Y,Apna College,Request,197,4,train,train
+UgwqbeN8cw-Y9eA_ugx4AaABAg,dGUQmuKhuJg,Apna College,Other,198,4,train,train
+UgwKRl3ZTW9FArx97xp4AaABAg,dGUQmuKhuJg,Apna College,Question,199,1,train,train
+UgyBXS3oGM7OY9kEKXR4AaABAg,dGUQmuKhuJg,Apna College,Praise,200,1,train,train
+UgzVQT74_QhGbaf9Qgp4AaABAg,dGUQmuKhuJg,Apna College,Question,201,1,train,train
+UgymnjoPEbHLJxVOgTh4AaABAg,dGUQmuKhuJg,Apna College,Request,202,1,train,train
+Ugy3oqhWjHz475Mld_t4AaABAg,dGUQmuKhuJg,Apna College,Question,203,2,train,train
+UgwXyMmLGGDVmdIQ3Sx4AaABAg,dGUQmuKhuJg,Apna College,Question,204,4,train,train
+Ugwu7E8Vx8h2ieJ1IeB4AaABAg,dGUQmuKhuJg,Apna College,Praise,205,2,train,train
+Ugw-H8VKSMy09Ls-kdB4AaABAg,dGUQmuKhuJg,Apna College,Other,206,1,train,train
+UgyG5T1Gug1MFj4SwcF4AaABAg,dGUQmuKhuJg,Apna College,Question,207,2,train,train
+UgzeoMfOXCQEwGTC9NZ4AaABAg,dGUQmuKhuJg,Apna College,Question,208,0,test,train
+UgwFBI1NlRSVWihH0694AaABAg,dGUQmuKhuJg,Apna College,Praise,209,2,train,train
+Ugz0daNhiKy19zGO3aR4AaABAg,dGUQmuKhuJg,Apna College,Question,210,3,train,train
+UgyHkAYdSXHzlUv2jyt4AaABAg,dGUQmuKhuJg,Apna College,Praise,211,0,test,train
+UgwwjWS5Q_PbiJkNrml4AaABAg,dGUQmuKhuJg,Apna College,Other,212,0,test,train
+UgxkyaAno1VuOQg2UCN4AaABAg,dGUQmuKhuJg,Apna College,Request,213,4,train,train
+UgxihRs5CHyHzTdT7D94AaABAg,dGUQmuKhuJg,Apna College,Request,87,3,train,train
+UgzhjaI7eyhO6cT-Dsh4AaABAg,dGUQmuKhuJg,Apna College,Request,87,3,train,train
+UgwGjRwNZfbj70W28-t4AaABAg,dGUQmuKhuJg,Apna College,Request,104,1,train,train
+UgxYRD3ew6uSEXavcy14AaABAg,dGUQmuKhuJg,Apna College,Other,214,4,train,train
+UgxvoU_z4vFxmikvPhB4AaABAg,dGUQmuKhuJg,Apna College,Other,215,2,train,train
+UgwEqPFe5p52d-Y_luh4AaABAg,dGUQmuKhuJg,Apna College,Question,216,1,train,train
+UgxGXaZBA9lfZ4Uf-Vt4AaABAg,dGUQmuKhuJg,Apna College,Request,217,1,train,train
+UgwybFO75SiD3TVVxBV4AaABAg,dGUQmuKhuJg,Apna College,Question,218,2,train,train
+Ugy9lYQ5xsqTKrE2cbJ4AaABAg,dGUQmuKhuJg,Apna College,Praise,219,1,train,train
+UgwJWUqhSOEpxpzfjat4AaABAg,dGUQmuKhuJg,Apna College,Praise,220,3,train,train
+UgzwRrksHN8urCdK85h4AaABAg,dGUQmuKhuJg,Apna College,Request,221,3,train,train
+Ugwu6Clg51IIqUF9tAB4AaABAg,dGUQmuKhuJg,Apna College,Other,222,3,train,train
+UgxHjphi4slot3uk-KZ4AaABAg,dGUQmuKhuJg,Apna College,Praise,223,2,train,train
+UgzKgK-bQkj487kUF6R4AaABAg,dGUQmuKhuJg,Apna College,Question,224,0,test,train
+UgzgVF3ROlzHsvw5Y1h4AaABAg,dGUQmuKhuJg,Apna College,Question,225,3,train,train
+UgyeG0rERWrDljvn38t4AaABAg,dGUQmuKhuJg,Apna College,Question,226,3,train,train
+UgxIaxGDZNsqV1r8B2x4AaABAg,dGUQmuKhuJg,Apna College,Question,227,4,train,train
+UgzG5NOGKS6DuEhEul54AaABAg,dGUQmuKhuJg,Apna College,Praise,228,2,train,train
+UgywUy-2N9ZHJPZOW094AaABAg,dGUQmuKhuJg,Apna College,Question,229,4,train,train
+UgzyDUb3oKRsK5Eg9zB4AaABAg,dGUQmuKhuJg,Apna College,Question,230,1,train,train
+Ugw1Ep3Mezv81cMHHeB4AaABAg,dGUQmuKhuJg,Apna College,Request,231,2,train,train
+UgySvOhg81-0KL2tas94AaABAg,dGUQmuKhuJg,Apna College,Praise,232,0,test,train
+UgyL42mlvT0WnQ8Q1-N4AaABAg,dGUQmuKhuJg,Apna College,Request,233,2,train,train
+UgwA1Yw-vGkV0bTm9cp4AaABAg,dGUQmuKhuJg,Apna College,Question,234,2,train,train
+UgyGGomvT-a8iDl-3t14AaABAg,dGUQmuKhuJg,Apna College,Request,235,2,train,train
+UgwjQluAgM1YmiCN_bh4AaABAg,dGUQmuKhuJg,Apna College,Praise,236,2,train,purged
+UgxFNinfHzcRyLUlAxZ4AaABAg,dGUQmuKhuJg,Apna College,Question,237,2,train,train
+UgztIh5dOavTTFuxCOF4AaABAg,dGUQmuKhuJg,Apna College,Question,238,0,test,train
+Ugz7gh0AbuPxwEW525h4AaABAg,dGUQmuKhuJg,Apna College,Request,239,1,train,train
+UgwoOag5hF1ia3cQHLd4AaABAg,dGUQmuKhuJg,Apna College,Other,240,0,test,train
+UgxerNN__0YEeUd1yXt4AaABAg,dGUQmuKhuJg,Apna College,Praise,241,0,test,train
+Ugw3Emav4u0YCKOU-Kp4AaABAg,dGUQmuKhuJg,Apna College,Other,242,4,train,train
+Ugw_l0Y_IVwtR54JE6V4AaABAg,mS5lTKaOt_4,Apna College,Request,243,4,train,test
+Ugx21EOr_Oiuk9CZrGF4AaABAg,mS5lTKaOt_4,Apna College,Question,244,4,train,test
+UgzgI3gWJViJ_WWrAO94AaABAg,mS5lTKaOt_4,Apna College,Other,245,3,train,test
+UgzXnKUOsdcJqYuz44Z4AaABAg,mS5lTKaOt_4,Apna College,Question,246,3,train,test
+UgxcQXLqHuqH7oS938R4AaABAg,mS5lTKaOt_4,Apna College,Request,247,2,train,test
+Ugx1ORRsyw_wC0J0ODh4AaABAg,mS5lTKaOt_4,Apna College,Question,248,4,train,test
+Ugyp3AF9owVczgcDVPV4AaABAg,mS5lTKaOt_4,Apna College,Question,249,3,train,test
+UgwWCxAeLr0kegyMo5F4AaABAg,mS5lTKaOt_4,Apna College,Question,250,0,test,test
+UgyCSO5zo5g9jD0pf9Z4AaABAg,mS5lTKaOt_4,Apna College,Request,251,0,test,test
+UgwTf1bVRKZYHJvqoAl4AaABAg,mS5lTKaOt_4,Apna College,Question,252,2,train,test
+UgwojAxClhjIXOepR4d4AaABAg,mS5lTKaOt_4,Apna College,Other,253,3,train,test
+UgzAKEh7h9ra4iYyMUZ4AaABAg,mS5lTKaOt_4,Apna College,Question,254,2,train,test
+Ugxu2OjiiNKyZ5p-8Xl4AaABAg,mS5lTKaOt_4,Apna College,Request,255,2,train,test
+UgwchtRtFkaVaTx-Dtt4AaABAg,mS5lTKaOt_4,Apna College,Question,256,0,test,test
+UgxgvDnrprwCTdctx5B4AaABAg,mS5lTKaOt_4,Apna College,Request,257,4,train,test
+Ugylk94PFR2QrOWcLgt4AaABAg,mS5lTKaOt_4,Apna College,Request,258,0,test,test
+UgxQwkQ5UM41NBvc16x4AaABAg,mS5lTKaOt_4,Apna College,Other,259,2,train,test
+UgyFoIGDwHG3LPdjKhR4AaABAg,mS5lTKaOt_4,Apna College,Question,260,4,train,test
+UgyautJvtPkaHePoSaV4AaABAg,mS5lTKaOt_4,Apna College,Question,261,1,train,test
+UgwT5T12izYyEvDGbDt4AaABAg,mS5lTKaOt_4,Apna College,Praise,262,3,train,test
+Ugwr--l_kwYvfogI2x14AaABAg,mS5lTKaOt_4,Apna College,Question,263,2,train,test
+Ugy9ciUyCwlNI4fwIdR4AaABAg,mS5lTKaOt_4,Apna College,Request,264,3,train,test
+Ugw7dr6Wev0gnI50Kjx4AaABAg,mS5lTKaOt_4,Apna College,Praise,265,3,train,test
+UgyIG1QiSndUpaPNkXh4AaABAg,mS5lTKaOt_4,Apna College,Praise,266,0,test,test
+UgwJkYd8gmgLf-kNrGJ4AaABAg,mS5lTKaOt_4,Apna College,Request,267,3,train,test
+UgxtAIyIlkqk_Df2eop4AaABAg,mS5lTKaOt_4,Apna College,Praise,268,1,train,test
+UgxyGnJsOXrXxV5pyVl4AaABAg,mS5lTKaOt_4,Apna College,Praise,269,0,test,test
+UgzroBXsSKCI0iMV35N4AaABAg,mS5lTKaOt_4,Apna College,Question,270,0,test,test
+UgzgS5qhJkqKnGY0hX14AaABAg,mS5lTKaOt_4,Apna College,Praise,271,0,test,test
+UgzGzshBoNWARZXSdEN4AaABAg,mS5lTKaOt_4,Apna College,Other,272,1,train,test
+Ugw4yZ8wmkrmK12PzA14AaABAg,mS5lTKaOt_4,Apna College,Request,273,1,train,test
+UgyWmbvUatMDAY9tLSR4AaABAg,mS5lTKaOt_4,Apna College,Request,274,4,train,test
+UgyZHelsQq_IC4taVox4AaABAg,mS5lTKaOt_4,Apna College,Other,275,2,train,test
+UgxGW4CmG3xIV0t_36B4AaABAg,mS5lTKaOt_4,Apna College,Request,276,3,train,test
+Ugx8LoEu9omeKXNp3Bl4AaABAg,mS5lTKaOt_4,Apna College,Other,277,1,train,test
+UgzoKwKVW2Mc9X9mUYl4AaABAg,mS5lTKaOt_4,Apna College,Other,278,1,train,test
+UgyiXa08wUU20H5LMHJ4AaABAg,mS5lTKaOt_4,Apna College,Other,279,3,train,test
+UgyYgfAZ9cI4MQt4crF4AaABAg,mS5lTKaOt_4,Apna College,Other,280,4,train,test
+UgxxU9x0lQc5xMGcrrJ4AaABAg,mS5lTKaOt_4,Apna College,Request,281,2,train,test
+Ugz_l8QaEmIrGEmv80Z4AaABAg,mS5lTKaOt_4,Apna College,Other,281,2,train,test
+UgymTfd9jXdqNkk6awJ4AaABAg,mS5lTKaOt_4,Apna College,Request,281,2,train,test
+Ugx6LRHpuoVnnctUT3J4AaABAg,KN3_sGhUzUc,Apna College,Other,163,3,train,train
+Ugx91nOSFf0znDx5yqR4AaABAg,KN3_sGhUzUc,Apna College,Question,282,4,train,train
+UgxDdcQxvzf_xE2iiiJ4AaABAg,KN3_sGhUzUc,Apna College,Praise,283,4,train,train
+UgxlgJLDd3N8VB2a8p94AaABAg,KN3_sGhUzUc,Apna College,Question,284,0,test,train
+UgwUWemnrGPfbD1jWyN4AaABAg,KN3_sGhUzUc,Apna College,Question,284,0,test,train
+Ugz4QHOs7PJMe2ufsT14AaABAg,KN3_sGhUzUc,Apna College,Request,285,1,train,train
+UgyezHQ46WfrC-tdnll4AaABAg,KN3_sGhUzUc,Apna College,Other,286,4,train,train
+Ugy260T4q5CMSxXDarZ4AaABAg,KN3_sGhUzUc,Apna College,Question,287,3,train,train
+UgwVx59S_vGb0f9LN2V4AaABAg,KN3_sGhUzUc,Apna College,Other,288,3,train,train
+UgxioLVI6GgCfAGxRs14AaABAg,KN3_sGhUzUc,Apna College,Request,289,3,train,train
+UgyLhJAOtSWeXd3JMnd4AaABAg,KN3_sGhUzUc,Apna College,Other,290,3,train,train
+Ugx3BHYTooTkCqBzGhB4AaABAg,KN3_sGhUzUc,Apna College,Request,291,2,train,train
+UgxthO-LXCA4a7kuHDN4AaABAg,KN3_sGhUzUc,Apna College,Request,292,4,train,train
+Ugzzr-SZtFAsJunxckd4AaABAg,KN3_sGhUzUc,Apna College,Question,293,4,train,train
+UgxFaaYLuqUhYwRgLwV4AaABAg,KN3_sGhUzUc,Apna College,Other,294,2,train,train
+UgxQHoKc5DBZ7IJ8Vsl4AaABAg,KN3_sGhUzUc,Apna College,Question,295,3,train,train
+UgwUFz7OMb2PCUpI1UR4AaABAg,KN3_sGhUzUc,Apna College,Other,296,1,train,train
+UgyZoBygz6XtIKD4PN94AaABAg,KN3_sGhUzUc,Apna College,Praise,297,4,train,train
+UgxYxRobT7wXOhfnc714AaABAg,KN3_sGhUzUc,Apna College,Request,298,2,train,train
+UgwGS0uupduN9ZZdCQh4AaABAg,KN3_sGhUzUc,Apna College,Request,183,2,train,train
+UgyPeqI7_9A-XcVQ8yF4AaABAg,KN3_sGhUzUc,Apna College,Question,299,1,train,train
+UgwDQX4X2eqeJzt4D5t4AaABAg,KN3_sGhUzUc,Apna College,Other,258,0,test,purged
+UgyHdgs8Wg33AOAyv0Z4AaABAg,KN3_sGhUzUc,Apna College,Request,300,2,train,train
+Ugw96N4wFc0Uig8ZqRZ4AaABAg,KN3_sGhUzUc,Apna College,Other,301,2,train,train
+Ugw7rZDWdjVHcU46J_x4AaABAg,KN3_sGhUzUc,Apna College,Question,302,0,test,train
+UgwsC5k0W_H_eWnyuk54AaABAg,KN3_sGhUzUc,Apna College,Question,303,1,train,train
+UgxOR84gkm31SlDmpKl4AaABAg,KN3_sGhUzUc,Apna College,Request,304,3,train,train
+UgxuorKdWqzE3VAvj914AaABAg,KN3_sGhUzUc,Apna College,Question,305,1,train,train
+UgyABoTF1hfI-YgQgxN4AaABAg,KN3_sGhUzUc,Apna College,Question,306,0,test,train
+UgwNvmHoLYtmdgoGVjF4AaABAg,KN3_sGhUzUc,Apna College,Request,307,1,train,train
+UgyT31pFgRDAXOh2xrV4AaABAg,KN3_sGhUzUc,Apna College,Request,308,1,train,train
+UgxPdKxTU1c3h40pqXB4AaABAg,KN3_sGhUzUc,Apna College,Question,309,3,train,train
+Ugx-LaeG-yLvZZso60V4AaABAg,KN3_sGhUzUc,Apna College,Request,310,4,train,train
+Ugwz25qARFlX3I-EuMl4AaABAg,KN3_sGhUzUc,Apna College,Praise,311,3,train,train
+UgwUmD94ydFPNtwlyS54AaABAg,KN3_sGhUzUc,Apna College,Question,312,3,train,train
+Ugzh4nG3KWlemIfl1QZ4AaABAg,KN3_sGhUzUc,Apna College,Request,313,2,train,train
+Ugw6qcJ6cMb0gkvW0S94AaABAg,KN3_sGhUzUc,Apna College,Question,314,2,train,train
+UgyV-pSyvSWV0qrx5Hp4AaABAg,KN3_sGhUzUc,Apna College,Question,315,0,test,train
+UgzF9QBLVh0kcC0TyMZ4AaABAg,KN3_sGhUzUc,Apna College,Question,316,3,train,train
+UgwBFYP32i8EI15bGl94AaABAg,KN3_sGhUzUc,Apna College,Request,317,4,train,train
+Ugze23UsnySPpGPQ7554AaABAg,KN3_sGhUzUc,Apna College,Request,273,1,train,purged
+UgzhliA53O2TtM4wDmV4AaABAg,KN3_sGhUzUc,Apna College,Request,318,3,train,train
+UgzLGGPVscia4-AaqKB4AaABAg,KN3_sGhUzUc,Apna College,Request,319,4,train,train
+Ugx4ak1pU59HY3aJSnF4AaABAg,KN3_sGhUzUc,Apna College,Praise,320,3,train,train
+Ugztf6fcDVhlJN6G1VB4AaABAg,KN3_sGhUzUc,Apna College,Request,321,1,train,train
+Ugwh9qZrd9jvXxhLtK94AaABAg,KN3_sGhUzUc,Apna College,Request,322,0,test,train
+UgybFGgKxQ6OzKF6TQl4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Question,323,4,train,test
+UgyswvWBQqpJtGg7bWF4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,324,4,train,test
+UgyWlBYwhDsYCivO6Pl4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Request,325,0,test,test
+UgxHnne8Ew0Z7JFq7yJ4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,326,2,train,test
+UgzvRTIrB2A5ur3WVJN4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,327,3,train,test
+UgwJvqWluSw08M0krc94AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,328,3,train,test
+UgzxMIE9a-5AN5NxtgB4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,329,4,train,test
+UgzmwPcR1JpkfXFf7ex4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Praise,236,2,train,test
+UgydEDUAxuC6lpcUF-14AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,330,2,train,test
+UgxyzOunzjkyGLcH-rx4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Praise,331,3,train,test
+UgwoNl051pItqWRSYNt4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,330,2,train,test
+UgwZ-q29t-d0Sfi6lS54AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,332,0,test,test
+UgyB3kVPXa9EwL8OINl4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,333,3,train,test
+UgzGl6tSHk8HYVIgK4Z4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Request,334,0,test,test
+UgydMObtqeerSd20MfN4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,335,3,train,test
+UgxDnmPEW-yqxYB8QWN4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,336,4,train,test
+UgyaO8buc4g2to1TWCh4AaABAg,JGly6PSK5iw,freeCodeCamp.org,Other,337,4,train,test
+UgyL3f2qvH2a2sWPLg54AaABAg,gYXLRMycVMk,freeCodeCamp.org,Praise,236,2,train,purged
+Ugw1Yt5NRdCi2warTbx4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Other,338,2,train,train
+Ugzdj7-Uie--4GYC6ot4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Request,339,2,train,train
+UgyKBReblwMRHxuItQB4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Other,340,1,train,train
+UgzmiwjZhnBI_8Z8_VN4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Praise,341,1,train,train
+UgyhmXPFKwbEPMYIA6h4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Request,342,0,test,train
+Ugw4W56EBh92MjC3Ae94AaABAg,gYXLRMycVMk,freeCodeCamp.org,Praise,328,3,train,purged
+Ugzy5kJH4_L1vNtzY9F4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Praise,343,0,test,train
+UgwGdPsDdoBWwUWwsAV4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Other,344,2,train,train
+UgxBZTu4yDaK74Wf70N4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Other,345,1,train,train
+UgyWA5v1hvMTvc4M-7B4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Other,346,1,train,train
+UgyvgFwF8c50b4Eezkt4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Other,347,1,train,train
+UgysVs012ld4PG3lZCZ4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Other,348,0,test,train
+UgxtBmaSc3L4ijPHiB94AaABAg,gYXLRMycVMk,freeCodeCamp.org,Praise,349,3,train,train
+UgyT0VOWCU0wRLIh0vV4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Praise,350,3,train,train
+UgzQ5k-BIYk0f8ksull4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Praise,351,3,train,train
+UgybSDS6s4jqNfbIWht4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Praise,352,0,test,train
+UgyVv7yzwcQizqp0vwV4AaABAg,gYXLRMycVMk,freeCodeCamp.org,Other,353,4,train,train
+UgzYkkIBbrN3k-fH8g14AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Question,354,4,train,train
+UgzRhUB9LbkQbc_p7UN4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Question,355,1,train,train
+UgwB24pI1Wf3tNWmc9h4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Question,355,1,train,train
+Ugyv_9rOJJoQCoUb7XV4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Praise,356,3,train,train
+Ugyh4JZZq_e7JuulrUR4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Spam,357,4,train,train
+UgzXY0P0qImFD4S_E9B4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Question,358,3,train,train
+Ugyb5jJVNSRjPD4TdZ14AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Other,359,0,test,train
+Ugx8kyNVCCAMRt28O6J4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Other,346,1,train,train
+Ugx0A3Effsjbg3cy9Xt4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Praise,328,3,train,purged
+UgwZqyWMpjSCjzY5NdN4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Other,360,1,train,train
+Ugze3A1eqj-yFamgQ1Z4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Praise,361,1,train,train
+UgzSKtAvZZhBzyHwYOV4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Other,362,0,test,train
+UgxUmShQg1GH6S2R9Qt4AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Question,363,1,train,train
+UgwOexC2E2aVdPCQMy54AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Praise,364,0,test,train
+Ugw-KEMg_GvJ69iQVV94AaABAg,kT7nXO32L-Q,freeCodeCamp.org,Other,365,1,train,train
+Ugy9p7yq1qkh9h8B4ut4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Praise,366,3,train,train
+UgxXBKjwszsak4MheBh4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,171,0,test,train
+Ugy4RMZmPD3tHYnbeEh4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,367,1,train,train
+UgyPfmz_YPUJTX7AWoJ4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,368,1,train,train
+UgyTDEIPDmqr-JOgxth4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,352,0,test,train
+UgzQJCWWaGJoDTW3Zt94AaABAg,QKNsHZatiWU,freeCodeCamp.org,Request,369,0,test,train
+UgyFgSZlzzQZOlAqJyt4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,370,3,train,train
+UgyFqWVeqU-SeF3SmG54AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,371,1,train,train
+UgzouErfpFkIj1IQK2l4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,372,0,test,train
+UgzVB0tgcHg6DnI17Bl4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Praise,373,4,train,train
+UgwHmPc87ERnoODsZnN4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Praise,374,2,train,train
+UgwCe2ijUcF0_CKgmz54AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,375,0,test,train
+UgzgrjzTTeQr4Qzz7QB4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Praise,376,3,train,train
+UgxFB_tR4It5iKPZ6ah4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,377,2,train,train
+UgwUrYyLjkHbJ7q-SfR4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Request,378,2,train,train
+UgwrxALKwtYFGkW3UJt4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,379,3,train,train
+Ugwv00zt-5JbK6L5Wld4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,380,1,train,train
+Ugzc65yddhJUlDiiw4h4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Praise,381,1,train,train
+UgxehcubBUKWqLRQrPB4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,382,0,test,train
+UgxnipASS05MDpBx6lt4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,383,0,test,train
+UgzHKNnWVIABv4cPXiR4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Praise,384,4,train,train
+UgwupvcqdxmNBcQj6A94AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,385,1,train,train
+Ugxu1MldpgPmulWBUXp4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,386,2,train,train
+Ugx1yglJV0hL1Oc9nCl4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,387,4,train,train
+UgxSCyHoP3bJ-gkifgl4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Praise,386,2,train,train
+UgzuSHwcVU6AyhduzlV4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,388,1,train,train
+Ugz_ifjQbTwa1kjvbL94AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,389,2,train,train
+Ugwy7iOxDMehn7WDLRx4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Question,390,4,train,train
+UgyyLPmaqILJ9L1eiXl4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,326,2,train,purged
+Ugyws4aI4kdKD8NSzdN4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,391,0,test,train
+UgyR2zgVIpez5ka8rYl4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,392,3,train,train
+UgzmYSyvk1DwahU9uRN4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,393,3,train,train
+Ugxrj0EZ4JvOzxQdQ-x4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,394,1,train,train
+UgwIeLZfIcr8malvZEt4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Request,395,0,test,train
+Ugyxug6wFKyCJuOXTKZ4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Praise,396,2,train,train
+Ugzl5RvXv2Mm-n75RoJ4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,397,2,train,train
+UgwQpWOrSi2ZNYEQIhF4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,398,2,train,train
+UgycigCl0TS0C9r-VpR4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,399,1,train,train
+UgywmD0MgBO7NljQ8BV4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,400,0,test,train
+Ugw4eXuiFS-xUwjg9454AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,401,0,test,train
+UgypXm_P-HMgPcCXWrd4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,346,1,train,train
+UgxM5lqehjYfr_CHD3B4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,402,2,train,train
+UgxT0OLPjQrsBaJtpjl4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,403,1,train,train
+UgzWpK-xZ1Bt4g5sVv54AaABAg,QKNsHZatiWU,freeCodeCamp.org,Praise,404,0,test,train
+Ugxv6V6-OMPvVbtSmlp4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,405,2,train,train
+UgyP6eX44mLgkSpj7IF4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,406,1,train,train
+UgxO5YO7OhGieqqrtul4AaABAg,QKNsHZatiWU,freeCodeCamp.org,Other,407,3,train,train
+UgwaXMgPXgSoy2j8fC94AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Spam,408,4,train,train
+UgzWHCixVW7TPk2Lk0B4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,409,4,train,train
+Ugw7B5V-90vqfOwk3594AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,410,0,test,train
+UgyCjyQoEdSbGzsrD514AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,411,0,test,train
+UgzSG2nq7vtXOLxeqvp4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,412,4,train,train
+UgypKf48GNDVy0YmSKN4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,413,1,train,train
+UgxBaef6cB5ByRCAb8l4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,414,0,test,train
+UgzrIDG0vHdTtl_VTjV4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,415,3,train,train
+UgxuhBzhrC0cLeMk6ul4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,416,2,train,train
+UgyOiolXboN9tP4LOLt4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Question,417,4,train,train
+UgztD6wvHnEjQodS2CB4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,418,4,train,train
+UgwlZxHi5wi93O-WPfN4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,419,1,train,train
+Ugw84GpWYHYoV66alu94AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,420,1,train,train
+UgwIR1Rrf95lonY6C-Z4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,421,1,train,train
+UgwqUrnZfAzsXhGUa5h4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,422,0,test,train
+Ugx1sj15fQGm51vcrG54AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,423,0,test,train
+Ugw5ES0O2OouGt4Cr_F4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,424,1,train,train
+UgzgZ0Ylu1KtisMMjcp4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Question,425,1,train,train
+UgzcfuefuKU5TC7u1ip4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,426,4,train,train
+UgyTbHsh2kZhGZAk8fl4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,427,1,train,train
+UgziIXiAEUXomioV1Vd4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,428,1,train,train
+UgysiC5VgP0lCX9ND694AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Request,429,1,train,train
+UgzlvdMl7sEnbjGaQqd4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,430,0,test,train
+UgzukcqalVgxpsZYI_d4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Question,431,3,train,train
+UgzKO9nCP4DLDGNQwYF4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,432,4,train,train
+UgzF1Q-dJBzZFiyynsR4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,411,0,test,train
+UgwSecPTU43yr_UON_x4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,433,1,train,train
+UgxVqm7kIplhuqQLnCZ4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Question,434,0,test,train
+UgyoJT3-ADFGfXdBcgJ4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,435,4,train,train
+UgxJ8bDB2PCFr8xgJ_N4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Request,436,0,test,train
+UgyYKziUogqL26WrSIR4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,437,4,train,train
+UgxKWcAUEwDEu-lPBW14AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Other,438,4,train,train
+UgzfkxjG2fyp79wqD_x4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,439,4,train,train
+UgyuRbPTIT0dfPP9z0h4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,440,2,train,train
+UgxCy-oYjeBz8jirqop4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,441,3,train,train
+UgyRIdITewVV2ETkcPR4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,442,3,train,train
+Ugx-UwzAQBtPdWA1PPZ4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,443,1,train,train
+Ugwvn0MCBoDMTKZw8Zd4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,444,0,test,train
+Ugy6W0cQZZc8gLaTpmN4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,445,4,train,train
+UgzxKips65GN4TC8Ydx4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,446,4,train,train
+UgylD3aGXIffulRn6pt4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,447,0,test,train
+Ugx_6v_ERn4jEM-_62d4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,448,3,train,train
+Ugx08BmK0jT1yvMbvAx4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,449,4,train,train
+UgzLJWvDL4X11AP_ZFV4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,450,4,train,train
+UgyOafbrWXF-Ee8Xbox4AaABAg,soTfFFIQQ8U,freeCodeCamp.org,Praise,451,1,train,train
+UgzwrFss_4oAEL28XOF4AaABAg,YY-egxTQirA,freeCodeCamp.org,Question,452,4,train,train
+UgwP6F_eXML_ex9JpVV4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,453,0,test,train
+Ugzw6Y15KL9G-OamCVN4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,454,2,train,train
+Ugw-EVAEFtB13D5yXzh4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,455,1,train,train
+UgxC3GU63HKREQXQfGN4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,456,2,train,train
+UgyUGruFXkHbGPvivI94AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,457,4,train,train
+UgxoitA2gqgqkOem1Ql4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,458,1,train,train
+Ugwsiz2uWFFG_OTYO2d4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,459,4,train,train
+UgzNuwFLLdODg_OlT714AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,460,2,train,train
+UgxmiuQzcdwJ7Uw0XeB4AaABAg,YY-egxTQirA,freeCodeCamp.org,Question,461,4,train,train
+Ugx2Y_oLHYO7aVD4sZ94AaABAg,YY-egxTQirA,freeCodeCamp.org,Question,462,3,train,train
+Ugyj5KwczdZ9CZmEFwd4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,463,1,train,train
+UgyBK5V49kfOqoB-Y5l4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,464,0,test,train
+UgzjjObUg8b3cqX5H0t4AaABAg,YY-egxTQirA,freeCodeCamp.org,Praise,465,0,test,train
+Ugxp69CHnsLb_z7e3e14AaABAg,YY-egxTQirA,freeCodeCamp.org,Praise,466,2,train,train
+Ugy0pw95tDququFkDRB4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,346,1,train,train
+Ugzebf8qT4-aJzmxBzh4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,467,4,train,train
+UgzKaaksKV3pAWQM_9R4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,468,4,train,train
+UgwQG6qU_eDTnBKH7v54AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,469,0,test,train
+UgyrS3wDFgVMcs4tv4h4AaABAg,YY-egxTQirA,freeCodeCamp.org,Question,470,0,test,train
+UgzFGp82fgBxJQnyvhd4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,471,1,train,train
+UgxEoR5zL0XaISbeIud4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,472,4,train,train
+Ugwwyp_JTU6bExr8X1h4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,473,2,train,train
+UgzLkwl-PbCu0bUUeOd4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,474,0,test,train
+Ugw7g5L6WywONrSGeYV4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,475,3,train,train
+UgyW9lb7euMsZCFRdi14AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,476,1,train,train
+UgzlaWcq49bm1oHEcph4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,477,1,train,train
+UgwGeHe79QRB9pvAIgF4AaABAg,YY-egxTQirA,freeCodeCamp.org,Praise,478,0,test,train
+UgzR3VAs0PsZa5VVhMd4AaABAg,YY-egxTQirA,freeCodeCamp.org,Request,479,2,train,train
+UgwZPX5gB3Js_cioBA54AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,480,3,train,train
+Ugy09rujuCP_l6e2qdt4AaABAg,YY-egxTQirA,freeCodeCamp.org,Praise,481,2,train,train
+UgzsSBM81XQUEPCE13N4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,482,3,train,train
+Ugyksmujx13cGH9BhTx4AaABAg,YY-egxTQirA,freeCodeCamp.org,Praise,483,0,test,train
+UgxREIC4t5Rlagq3aqR4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,484,2,train,train
+UgxOKZZGW-KnWoeT3Cd4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,485,1,train,train
+UgwhaEqCXyV3Sl6dT3x4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,486,2,train,train
+UgwsSlqZSNIP0wkpTnV4AaABAg,YY-egxTQirA,freeCodeCamp.org,Other,487,3,train,train
+UgwN2OrP_SgrwyIWBcZ4AaABAg,P-UIf7V7gV0,freeCodeCamp.org,Praise,488,2,train,train
+UgzxYu3rYj7awFAIit14AaABAg,P-UIf7V7gV0,freeCodeCamp.org,Other,489,2,train,train
+Ugx2sNE-wn4grw9ZYXF4AaABAg,P-UIf7V7gV0,freeCodeCamp.org,Question,490,3,train,train
+UgwQX87WEh8yyqm0FTB4AaABAg,P-UIf7V7gV0,freeCodeCamp.org,Praise,491,3,train,train
+UgxQ2DknKyFQnNQSCEJ4AaABAg,P-UIf7V7gV0,freeCodeCamp.org,Request,492,3,train,train
+UgxM20dvFN4SGZCEySR4AaABAg,P-UIf7V7gV0,freeCodeCamp.org,Other,493,0,test,train
+UgzgXg_AXCr0x0O-Dt54AaABAg,P-UIf7V7gV0,freeCodeCamp.org,Other,494,0,test,train
+UgwuysVMOMgJFgYSAmR4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,495,1,train,train
+UgzKb4tHHD2qJ9XQKQl4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Request,496,0,test,train
+Ugw7uXNC_I_Y5NKtkst4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Praise,497,3,train,train
+Ugx3z3JTusdKRuSN23N4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Question,498,2,train,train
+UgwlU3efedOwIUT8Q4d4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,499,3,train,train
+Ugwhw_ql3BKW384Y97d4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,500,0,test,train
+UgwylmgF-WiT6g5ngIp4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,501,4,train,train
+Ugy0EP4jrQfATtqq6g94AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,502,2,train,train
+UgwG1IHrZL6FeGXeYxZ4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Praise,503,1,train,train
+UgwOqnsbB03Xioh4BJB4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Request,504,1,train,train
+UgwdV4SQTMk9fE8femZ4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,505,2,train,train
+Ugyq5oH_WAB3UJnQHEB4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,506,0,test,train
+UgyCww0Gl7pI_9q9lt94AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,507,2,train,train
+Ugz79FLHZscboEAMWFR4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,508,0,test,train
+UgwDb71hl2h6pGHjyXJ4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Praise,419,1,train,train
+UgyTLqKZWJ7__81mqoN4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Question,509,0,test,train
+UgwiMNKZKW709Z8tX794AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,510,1,train,train
+UgwRN7BDkcojdjX_nnV4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,511,1,train,train
+Ugz4M1L7Jj6slxoo1354AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,512,1,train,train
+UgxLf29aDXRarFOPk_h4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,513,3,train,train
+UgzfI-ch9zcbt9q5INR4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,514,2,train,train
+Ugwu1paFnwh2IjNvDJ54AaABAg,LKrwhjOI8Nc,3Blue1Brown,Praise,515,0,test,train
+UgxvlWoS0JjKbsG_Wll4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,516,4,train,train
+UgwpjL9bS9WtV-y0bmh4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,517,3,train,train
+Ugxa8MagjLLOtKJ2o8d4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Praise,518,3,train,train
+UgyM7amY32fmzJH4e2V4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,519,3,train,train
+Ugx1LFOrXPmlhFWNDul4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,520,0,test,train
+UgwfL5jx3jeeDtroKsx4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,500,0,test,train
+Ugw7-rGFYGyTWWlGjU94AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,500,0,test,train
+UgwtTucE4bSs1MpQzD14AaABAg,LKrwhjOI8Nc,3Blue1Brown,Praise,521,0,test,train
+UgyYVhOeuLTQa6aZh-d4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,522,1,train,train
+UgxjU2aR-_fTZMHPEfh4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,523,4,train,train
+UgziE7Sh_GbbOQDPfEl4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Request,524,0,test,train
+UgwIbrzvufmQN_HtVUF4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Praise,525,2,train,train
+Ugw98SaXGTLsvF0yQMJ4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,526,3,train,train
+UgxzA9NGL58wuvfTbE94AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,500,0,test,train
+Ugyd2vYCZscsAQRz8Kx4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Praise,527,2,train,train
+UgwB4ciPKxHOue4tFPp4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,528,2,train,train
+UgyMttIPv8wy3bb9roZ4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,529,3,train,train
+Ugx9RCXFR3gLcH9YBrN4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Praise,530,1,train,train
+Ugwd7T8dgRGOHgMRrlt4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,531,2,train,train
+UgxZmsHDUDgaGuLPO5h4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,532,2,train,train
+UgzRMhMXfYQgoM9mmKZ4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,533,1,train,train
+UgxlYpOme5mZmtOuvKt4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,534,2,train,train
+UgzNOUhtWCj1i9bKr0B4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Praise,535,3,train,train
+Ugz2wwpJU7FFzv3Amo14AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,536,4,train,train
+UgzVmAadWxuqSjikIiJ4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,537,4,train,train
+UgyYZjqVTpJkmT1y_ih4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,538,1,train,train
+UgwVYEaz07NOPRt_bKF4AaABAg,LKrwhjOI8Nc,3Blue1Brown,Other,538,1,train,train
+Ugwx2fu7mAOGiQvFD7J4AaABAg,ausLKMojXaY,3Blue1Brown,Other,539,2,train,test
+Ugy5bFRAtBRFeK7GD_B4AaABAg,ausLKMojXaY,3Blue1Brown,Other,540,0,test,test
+Ugw20TYhlmASsRcdZCB4AaABAg,ausLKMojXaY,3Blue1Brown,Other,541,0,test,test
+UgxR-o-A3tqbTMeLxip4AaABAg,ausLKMojXaY,3Blue1Brown,Other,542,1,train,test
+UgxZxJAC64acwUWqN1B4AaABAg,ausLKMojXaY,3Blue1Brown,Request,543,2,train,test
+UgzRxb38F_dt5fK695N4AaABAg,ausLKMojXaY,3Blue1Brown,Other,544,4,train,test
+UgxeNI7RdXMV4gKYERF4AaABAg,ausLKMojXaY,3Blue1Brown,Other,545,0,test,test
+UgzLskkyPRvpPupVBW14AaABAg,ausLKMojXaY,3Blue1Brown,Other,546,2,train,test
+Ugw3F4aNMB30UGcedPl4AaABAg,ausLKMojXaY,3Blue1Brown,Other,547,3,train,test
+UgxZAecdqibxIuCOolN4AaABAg,ausLKMojXaY,3Blue1Brown,Other,548,2,train,test
+Ugw0RPYYBqVkDyPna9F4AaABAg,ausLKMojXaY,3Blue1Brown,Praise,549,0,test,test
+UgxB9_V7bToGRWFT5Cp4AaABAg,ausLKMojXaY,3Blue1Brown,Other,550,1,train,test
+Ugz7W_7vDqezImTgSQl4AaABAg,ausLKMojXaY,3Blue1Brown,Other,551,2,train,test
+Ugw5NtbjztX0zAjXLO14AaABAg,ausLKMojXaY,3Blue1Brown,Other,552,4,train,test
+UgzL-6fy-vvhGjARkSV4AaABAg,ausLKMojXaY,3Blue1Brown,Other,553,4,train,test
+UgwTUYYt05l6aZXO0XR4AaABAg,ausLKMojXaY,3Blue1Brown,Other,554,0,test,test
+UgxPWlPKz_UpQjU4PNZ4AaABAg,ausLKMojXaY,3Blue1Brown,Question,555,3,train,test
+UgxT7ZKmYz4jVajh1E54AaABAg,ausLKMojXaY,3Blue1Brown,Other,556,2,train,test
+Ugzwa-BKOtGWkmW1lVl4AaABAg,ausLKMojXaY,3Blue1Brown,Question,557,2,train,test
+Ugzm1bkAUrqlxPAy7uN4AaABAg,ausLKMojXaY,3Blue1Brown,Other,558,2,train,test
+UgyVZpoeM326PX_wNIx4AaABAg,ausLKMojXaY,3Blue1Brown,Other,559,1,train,test
+UgypVwCPD1fIno9rrCh4AaABAg,ausLKMojXaY,3Blue1Brown,Question,560,1,train,test
+UgxPFHwQxTp2ZmdBzNJ4AaABAg,ausLKMojXaY,3Blue1Brown,Other,561,1,train,test
+UgyyPaeeEySAGCjZYft4AaABAg,ausLKMojXaY,3Blue1Brown,Other,562,4,train,test
+UgxYIwAbusNdIr6-HuN4AaABAg,ausLKMojXaY,3Blue1Brown,Other,563,4,train,test
+UgyjxrnsIbNiv5cOxSp4AaABAg,ausLKMojXaY,3Blue1Brown,Other,564,1,train,test
+Ugz2EKuDaLNkKI6N5Q94AaABAg,ausLKMojXaY,3Blue1Brown,Other,565,3,train,test
+UgxL-sH2ZGs80xqyijh4AaABAg,ausLKMojXaY,3Blue1Brown,Other,566,0,test,test
+UgwS9hkeARdF06QhZal4AaABAg,ausLKMojXaY,3Blue1Brown,Other,567,2,train,test
+Ugx-j8pJ3kNgPIo8_cR4AaABAg,ausLKMojXaY,3Blue1Brown,Other,568,1,train,test
+UgyaKDe0HXdVmvauSfB4AaABAg,ausLKMojXaY,3Blue1Brown,Question,569,4,train,test
+UgzcGM5FkMMM_qmRq494AaABAg,ausLKMojXaY,3Blue1Brown,Other,570,0,test,test
+UgxdGWGKAPnUiRdVtMh4AaABAg,ausLKMojXaY,3Blue1Brown,Other,571,2,train,test
+UgyQo1ZC8MiwU-ErsN14AaABAg,ausLKMojXaY,3Blue1Brown,Question,572,1,train,test
+UgwxULK2PrQplqMQON14AaABAg,ausLKMojXaY,3Blue1Brown,Other,573,0,test,test
+UgyZIBs2PYVlPoe-p8t4AaABAg,ausLKMojXaY,3Blue1Brown,Other,574,1,train,test
+Ugz5IbpgL3D5ux1WTSt4AaABAg,ausLKMojXaY,3Blue1Brown,Other,575,4,train,test
+UgwDTTmyvgsffP32lFx4AaABAg,ausLKMojXaY,3Blue1Brown,Other,576,4,train,test
+UgyuGvWAtXYDOaR3x9l4AaABAg,ausLKMojXaY,3Blue1Brown,Other,577,3,train,test
+UgwIGT0wvDwp247Wk2t4AaABAg,ausLKMojXaY,3Blue1Brown,Other,578,0,test,test
+UgzZN00igpAPwbg85aR4AaABAg,ausLKMojXaY,3Blue1Brown,Other,579,2,train,test
+Ugzi4IE5oMimC_8CWKl4AaABAg,ausLKMojXaY,3Blue1Brown,Other,580,4,train,test
+UgyaLakXJ0CpsBX3oEJ4AaABAg,ausLKMojXaY,3Blue1Brown,Other,581,4,train,test
+UgwioFPVcOmniQiLs4x4AaABAg,ausLKMojXaY,3Blue1Brown,Other,582,3,train,test
+Ugwxa5J3y_8-Vvn17Hh4AaABAg,ausLKMojXaY,3Blue1Brown,Other,583,0,test,test
+UgxcgRQ6Ex4_c9DdwMp4AaABAg,ausLKMojXaY,3Blue1Brown,Other,584,1,train,test
+Ugw6oigAxmd3U6jzzmx4AaABAg,ausLKMojXaY,3Blue1Brown,Other,585,2,train,test
+UgwNKLd3aNrvhEFSq-V4AaABAg,ausLKMojXaY,3Blue1Brown,Other,586,0,test,test
+Ugz43XxeR1ua-ujnlbd4AaABAg,ausLKMojXaY,3Blue1Brown,Other,587,2,train,test
+UgwA81yLg0MuiG05yyV4AaABAg,ausLKMojXaY,3Blue1Brown,Other,588,0,test,test
+Ugx2MCNTMFB1lPGUh514AaABAg,bRQEWPA832A,3Blue1Brown,Other,589,3,train,train
+UgwsZJIfwfMGoWVb0rR4AaABAg,bRQEWPA832A,3Blue1Brown,Other,590,3,train,train
+UgwVJgQh6kroycu9vOJ4AaABAg,bRQEWPA832A,3Blue1Brown,Praise,591,2,train,train
+UgwGxx41pGh6zJAYl694AaABAg,bRQEWPA832A,3Blue1Brown,Other,592,4,train,train
+Ugzmgo-nWOyt_oIrU914AaABAg,bRQEWPA832A,3Blue1Brown,Other,593,4,train,train
+Ugz4fJtdP7yOBIG6siB4AaABAg,bRQEWPA832A,3Blue1Brown,Other,594,3,train,train
+UgzXswjdvFpUeaXsCKx4AaABAg,bRQEWPA832A,3Blue1Brown,Other,595,1,train,train
+UgyJ94g5SsOBeQFga5V4AaABAg,bRQEWPA832A,3Blue1Brown,Other,596,2,train,train
+UgwmSjN0DdmTotQ3biB4AaABAg,bRQEWPA832A,3Blue1Brown,Question,597,2,train,train
+UgzvSthtECkELhh5E3t4AaABAg,bRQEWPA832A,3Blue1Brown,Question,598,4,train,train
+UgzjsVmHGJga0mOlDK14AaABAg,bRQEWPA832A,3Blue1Brown,Question,599,1,train,train
+UgwMt2C9ORh7auPKFu94AaABAg,bRQEWPA832A,3Blue1Brown,Question,600,4,train,train
+UgzngLn6qZELFtzcWNR4AaABAg,bRQEWPA832A,3Blue1Brown,Other,601,3,train,train
+UgyPRjMgt5GMd9uf38V4AaABAg,bRQEWPA832A,3Blue1Brown,Other,602,3,train,train
+Ugyl9Ve3r-fiBocTIF94AaABAg,bRQEWPA832A,3Blue1Brown,Other,603,0,test,train
+Ugw6D4Cc252eTykMGqF4AaABAg,bRQEWPA832A,3Blue1Brown,Other,604,0,test,train
+UgzXE0JU3fwzMWlaoq94AaABAg,bRQEWPA832A,3Blue1Brown,Other,605,3,train,train
+Ugw84dqiLaT1WPNe-h14AaABAg,bRQEWPA832A,3Blue1Brown,Other,606,2,train,train
+Ugw7avhtrT2Cv7ytgjh4AaABAg,bRQEWPA832A,3Blue1Brown,Other,607,2,train,train
+Ugzx-pxqIS-vjaMTD1Z4AaABAg,bRQEWPA832A,3Blue1Brown,Other,608,0,test,train
+Ugy32XMPzjIchet0ZPN4AaABAg,bRQEWPA832A,3Blue1Brown,Praise,564,1,train,purged
+UgwCgPkeL9zt6y0KhwV4AaABAg,bRQEWPA832A,3Blue1Brown,Other,609,1,train,train
+UgyMfCh7WrJFYeW1UDp4AaABAg,bRQEWPA832A,3Blue1Brown,Other,610,2,train,train
+UgxE8a_T7fyXjGwUEuB4AaABAg,bRQEWPA832A,3Blue1Brown,Other,611,3,train,train
+UgztPSevwT7VmTGE3wx4AaABAg,bRQEWPA832A,3Blue1Brown,Other,612,3,train,train
+UgxtHrunGTnjOGzTieN4AaABAg,bRQEWPA832A,3Blue1Brown,Other,613,1,train,train
+UgzTY02hyWYjKlWOvYR4AaABAg,bRQEWPA832A,3Blue1Brown,Praise,614,1,train,train
+UgzBAp0vCcpGygyRYBV4AaABAg,bRQEWPA832A,3Blue1Brown,Other,615,3,train,train
+UgxfWxecTWcaskCVD2h4AaABAg,bRQEWPA832A,3Blue1Brown,Question,616,2,train,train
+Ugxrd3LRxKnrhzkM0wR4AaABAg,bRQEWPA832A,3Blue1Brown,Praise,617,2,train,train
+UgzfTKL0S18LxKxidoB4AaABAg,bRQEWPA832A,3Blue1Brown,Other,618,1,train,train
+UgwEtHf1rm4fz0GVFRF4AaABAg,bRQEWPA832A,3Blue1Brown,Praise,619,2,train,train
+UgyJAbd-1ukFUP5RhOZ4AaABAg,bRQEWPA832A,3Blue1Brown,Other,620,2,train,train
+UgwE0DI0py9Ef3Djx_B4AaABAg,bRQEWPA832A,3Blue1Brown,Praise,621,4,train,train
+UgwX1fJAD9-e00H1KuJ4AaABAg,bRQEWPA832A,3Blue1Brown,Question,622,2,train,train
+UgzjdRhJLJl06bUMNjt4AaABAg,bRQEWPA832A,3Blue1Brown,Question,623,4,train,train
+Ugy9AmBdCOQOkWgUI2V4AaABAg,bRQEWPA832A,3Blue1Brown,Other,624,1,train,train
+UgwkNYVGeUQRTHrCZRd4AaABAg,bRQEWPA832A,3Blue1Brown,Other,625,4,train,train
+UgwwNozuH8YSxs4rDih4AaABAg,bRQEWPA832A,3Blue1Brown,Other,626,2,train,train
+Ugwpu1YrUNjiC8YYTKZ4AaABAg,bRQEWPA832A,3Blue1Brown,Question,627,1,train,train
+UgxdLmieVc_KYR8GX-54AaABAg,bRQEWPA832A,3Blue1Brown,Other,628,3,train,train
+Ugxzt1U0DFrgzzDHF7N4AaABAg,bRQEWPA832A,3Blue1Brown,Question,628,3,train,train
+UgzV7Ut6lCKpuanbGFZ4AaABAg,bRQEWPA832A,3Blue1Brown,Praise,629,1,train,train
+Ugw3IB4LLJt8zCGnOkF4AaABAg,bRQEWPA832A,3Blue1Brown,Other,630,2,train,train
+UgxtXbN3tRkC3v6y6XB4AaABAg,bRQEWPA832A,3Blue1Brown,Other,631,3,train,train
+UgwFfAkFwJR6f_nTD6p4AaABAg,bRQEWPA832A,3Blue1Brown,Praise,632,2,train,train
+UgzCkli1DZrNgPFqlgN4AaABAg,bRQEWPA832A,3Blue1Brown,Question,633,2,train,train
+Ugx0p7JqP8hSHiJk0Gl4AaABAg,bRQEWPA832A,3Blue1Brown,Other,634,0,test,train
+UgwuhhoV57hR3iI-dEF4AaABAg,bRQEWPA832A,3Blue1Brown,Praise,635,2,train,train
+UgyXG9xoem8_ldT8VYt4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Praise,636,3,train,train
+UgzZu4GyEKG-dkWZpSd4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,637,1,train,train
+UgzaW4Q2_OZEo5iuN6F4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Question,638,1,train,train
+UgxwEXjjlCnLAraGULF4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,639,3,train,train
+UgxeRzYaiCZetxGnTkt4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,640,0,test,train
+Ugzg8EmVCkzt7IbMVa94AaABAg,Nbwv5wHQoj0,3Blue1Brown,Praise,641,3,train,train
+Ugztwpw1QKcDSby88c14AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,642,0,test,train
+UgyaQnyjKxGvnQNrgzt4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Question,643,2,train,train
+Ugy7oYC-w4lv4ypaCy14AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,644,0,test,train
+UgwLHt2JIET4M-kMQXB4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,645,0,test,train
+Ugx2YDtYFsyBE1AbRTN4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,646,1,train,train
+Ugx1Tnv2zXP41WAUBWp4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,647,2,train,train
+Ugy25bJaw95ofPo2dbd4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,648,3,train,train
+UgwDcKIhNOFUVJJzOz14AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,648,3,train,train
+UgxW_MdMHpuXVccNgjh4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,649,4,train,train
+UgzAnaZ7b7jRqME0ohN4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,650,4,train,train
+UgyjfuLWtIE_L_7ZPXB4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,651,0,test,train
+UgwjXzsv8gpjiDE848l4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,652,4,train,train
+Ugzt02L6gnKONjfO_3V4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Praise,653,4,train,train
+Ugxq5BIPddK3fwfIVO94AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,654,1,train,train
+UgzbN_NsIqSlZlSPAnl4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,655,4,train,train
+UgwVQOftwoC8YAfVlgR4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,656,3,train,train
+UgxoX3oBf8Kyzp2aodR4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Question,657,4,train,train
+UgwlBtduUYvGa_YcZy54AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,658,3,train,train
+Ugwj3evZEpzFlB2mJHJ4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,659,2,train,train
+UgypcbboMgNx3ybMs2p4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,660,3,train,train
+UgyumB6tqvoV6zF1SzZ4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,661,4,train,train
+Ugw3TpS47gHGKIJyAUB4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,662,2,train,train
+Ugxgnju_DyJwCZuKDbR4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,663,2,train,train
+Ugwypda_TDnFA6aSwfV4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Question,664,0,test,train
+UgynUEzCFoxaVKZbz-F4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,665,3,train,train
+UgyvEyrWrEWN1xvkug94AaABAg,Nbwv5wHQoj0,3Blue1Brown,Question,666,3,train,train
+UgyHi9jQ9tr3eRP4EZJ4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Praise,667,0,test,train
+Ugz7doVFH0yd54VhAht4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,668,0,test,train
+UgxVg7arpGbi97_7kMd4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Request,669,3,train,train
+UgxzPUcyozQ4HdPJmN94AaABAg,Nbwv5wHQoj0,3Blue1Brown,Question,670,1,train,train
+UgxtFCvH7_zPY8_Yj094AaABAg,Nbwv5wHQoj0,3Blue1Brown,Praise,671,2,train,train
+UgzHH6cSzVdH6NjzPLR4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,672,0,test,train
+UgzXLqGDqvhkD4FaLal4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,673,2,train,train
+UgzBgVaLAa9a7KkLVaJ4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Request,674,4,train,train
+UgxYjiHv2G0uMYlrRUh4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,675,1,train,train
+Ugz37OTBkT_2JxrvXfR4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Praise,676,2,train,train
+Ugz45AHMqxxrHuHokot4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,677,0,test,train
+UgwtV2a7iSqj_Z1plc94AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,678,0,test,train
+UgyzZEwTYvd8OE1eZyh4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,679,4,train,train
+UgwV72hcPNJnRAYc4aR4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,517,3,train,train
+Ugwcns4PdmVupFgMKyl4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Request,680,1,train,train
+UgwuAuYB1zJNYD7sZLh4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,681,4,train,train
+UgzS92J2fzDelPmFUqR4AaABAg,Nbwv5wHQoj0,3Blue1Brown,Other,682,2,train,train
+UgznPcxTdE-WOmOjy-p4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,683,4,train,test
+UgwHiGwLk8Xx8ivWh0B4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,684,0,test,test
+Ugzq5yG_A7B32GUuylh4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Spam,685,3,train,test
+Ugz_ldYAhmQG3GF-WvV4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,686,1,train,test
+UgwjBNgBJhUwr-q_8FR4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,687,4,train,test
+Ugwf9Blo8BMtkLxNFcJ4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Request,688,1,train,test
+UgxAgT6SbCI698_7dXx4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Question,689,2,train,test
+UgwbbxeMZ2MOh4tolc54AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,690,3,train,test
+Ugzbsl2ZWzSPknJtrCx4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Request,691,0,test,test
+Ugxn2mK4qHS4x6lcvm94AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,692,1,train,test
+Ugz9NduFxeVlUWeL6Pt4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Question,693,2,train,test
+UgxoAgUm-Tlxh-8tNrh4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,694,3,train,test
+UgzNJ7SnYZkX33-GEZJ4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Spam,695,1,train,test
+Ugx1Atf5PBpQ7NH9fZp4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Request,696,3,train,test
+UgwuiB4nMAZsYZID2T54AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Question,697,1,train,test
+UgwTOloXHj84E0ZfEDx4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,698,1,train,test
+UgxaC4_MtdGjkGOvD-Z4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,699,0,test,test
+Ugys3jW_AOmcNkShqkZ4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Request,700,0,test,test
+Ugxb4LHEHk0qzwBvaf94AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Praise,701,3,train,test
+UgybqKCpF_4k8ibVDrd4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Request,702,1,train,test
+UgwJ3GBlLcFTjZSKE-Z4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,703,2,train,test
+UgxGO6qLRIYGwPeZYS14AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,704,3,train,test
+UgySaVOrkkGZz9UdKtt4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,705,0,test,test
+UgxTwebkYpKC_SYBrnx4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Request,706,0,test,test
+UgwIUf1OCh_f1h353LB4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,707,3,train,test
+UgwpVZhdlgLqdRqz5wB4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Request,708,2,train,test
+UgwUpesfXJXUxwjcFTJ4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Request,709,4,train,test
+UgyyRWmoP9QX4dlWHB94AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,710,1,train,test
+UgzQNmJK8jKSge-gQ_54AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Question,711,3,train,test
+UgwlZeDOgzurYHxSf4B4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Request,712,0,test,test
+UgxU2Edz9waE5LV38aJ4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,713,0,test,test
+UgyEvcH8DJHyIiw9W1B4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,714,4,train,test
+UgwD58hm1i83ENuBWop4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,715,4,train,test
+Ugx2G-ZCWYJNwJBa1854AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,716,1,train,test
+Ugw6QDdhgvWxdU1PneF4AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Other,717,4,train,test
+UgzH7a7fWE77E0dbQP14AaABAg,kc6J2sQR8VM,Physics Wallah - Alakh Pandey,Question,718,0,test,test
+UgyTeYAiKb3JtxPgAL94AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Spam,719,2,train,train
+UgzHmXVaTsPHdGhC7b94AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,720,2,train,train
+UgxgZnNaTeYStz8ZipZ4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Question,721,2,train,train
+UgwwhLP9sqZr_KTWq0h4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Request,722,3,train,train
+UgyF0HaRJoF4PECOC4l4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,723,0,test,train
+UgwkN9erwEW2e7cxZrl4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,724,0,test,train
+UgyB2tVcmAYJZrkxpLd4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,725,2,train,train
+UgxOid0nBBQbDd0xstd4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Request,726,3,train,train
+Ugx_lqUeATgzWLGuxRp4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,726,3,train,train
+Ugw3p7MSmAqaOgmJYyV4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Question,726,3,train,train
+Ugzx0V48Jnu9PeqAzXx4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,727,3,train,train
+UgxAIhbEkftMQerkgqx4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,728,0,test,train
+UgxXWhTYjV_dyZek0BV4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,729,4,train,train
+UgxMKRtsML6IdI9SotR4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,730,2,train,train
+UgxjSxlFw3LmNW2O-Bp4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Question,731,0,test,train
+UgzVFHmFt-KAouYrpZd4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,732,1,train,train
+Ugw14l3ycBX3lVGkNyp4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Request,733,4,train,train
+UgwQFqkEufoetkO9CZl4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,734,4,train,train
+Ugw9IPNtqZtUMmlvY3l4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,735,4,train,train
+UgxpQhAQllG9Sr2msvh4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,736,0,test,train
+UgzZJqkR6fiWcNQyEqN4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,737,2,train,train
+Ugxm_ZHKfXBUelcxIj94AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,738,0,test,train
+UgxoOZquL1unsh-zu_F4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,739,1,train,train
+UgyHO1ORpRaoakbgEql4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,740,1,train,train
+UgwrEro9jb-Z6X1ZtKZ4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,741,4,train,train
+UgzrbolnWkhvJaFhaGF4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,742,4,train,train
+UgzP9xZ-rSDbyPOld854AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,743,1,train,train
+UgwWtgN6irXRQSx8fop4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,744,0,test,train
+UgzI66PbhRNyWxnHumt4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,745,1,train,train
+UgxKnPYxJs2vq2bHmYN4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,746,4,train,train
+UgyyU2XQTDJS4N-t-594AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,747,3,train,train
+UgyRK0uhntXULyjwHpR4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,748,4,train,train
+UgzeHQ5MytakYeoyqaB4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,749,3,train,train
+Ugw1apqEYaxnrt-XCZF4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Question,353,4,train,train
+UgxyTGYBXstEozovo2V4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,750,4,train,train
+Ugwd0oaSPzS2wWmvvGh4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,751,0,test,train
+Ugw5frM4v-nPw6Dj4X14AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,752,3,train,train
+UgzZMcPz4TGCCopkH794AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,753,1,train,train
+UgyqFqzlRC1vnCo5TAh4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Praise,754,1,train,train
+UgxZV6LpMoYZovYkDFh4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,755,1,train,train
+UgwZ4uIwDosmSR1tXDR4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Praise,756,4,train,train
+UgyugGJXVuLctrix57N4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,757,4,train,train
+UgyVx70V1IYHHtM6MsZ4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,758,3,train,train
+UgyxTo9ZdnGfCHWI1Wt4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,759,1,train,train
+Ugw8wXkdNRg02Dy3tBl4AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,760,1,train,train
+UgydJGwPudO3zT_VHV14AaABAg,20dLfuX3yXk,Physics Wallah - Alakh Pandey,Other,761,0,test,train
+Ugy9hDFGaUa6SGQBJB14AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,762,0,test,train
+Ugy0bM8kohpzdEK2OxV4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Question,763,0,test,train
+Ugyfc3EWE3b9TclMSOJ4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Spam,764,2,train,train
+UgyHohHxwb7Nfc9-XlB4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Request,765,4,train,train
+UgytVUcrL88zbDyEohJ4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,290,3,train,train
+Ugz78i76NIB6o_qKC7R4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,766,4,train,train
+UgwjY2zjoOR63vat-hh4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,767,3,train,train
+UgxJhQ7_b70pbiq4YH14AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,768,3,train,train
+Ugz9sWpBOHHJIu3Ewgh4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Question,769,3,train,train
+UgxqonpZEHmMycrpaQl4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Request,712,0,test,purged
+UgwOh7A_WQQXq6lWln14AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Question,770,4,train,train
+Ugzg6I-kdNbJUvG3HRl4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Spam,771,0,test,train
+Ugwrbb2sH9E6Dumtqkt4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,772,0,test,train
+UgyArk4CH8_Tqy-Qs8l4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,773,0,test,train
+UgzOJIKrd0euNLr1e4J4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Request,774,0,test,train
+UgyeV4rs6f7xByGxyhV4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,775,3,train,train
+UgxnyrYcIbmEwjIh5T54AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,776,3,train,train
+UgyYN-y8Z5qwO6TidlN4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,777,1,train,train
+UgwjERjWC3iOFQWkz4N4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,778,4,train,train
+UgwKa8h8hhaG3pUqiQR4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,779,4,train,train
+UgxmgSCATD5mqitloGV4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,780,4,train,train
+Ugyfgw5QD6GbbzWEdfp4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,781,4,train,train
+UgwaCbL6mt-ihB31_Mt4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,782,2,train,train
+UgzJblt6oOkhcOW-iE54AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,734,4,train,train
+Ugy9yEAssyRMBRyIfch4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Question,783,4,train,train
+UgzNfRVe7BlhHJLYczd4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,784,2,train,train
+UgxwvxyhxctvQUsgGc54AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,785,4,train,train
+UgwBpUoShrDj2fJB7WV4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,786,0,test,train
+UgyEt6zEMI6ESjqCWp94AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Request,787,0,test,train
+UgxHrQVrCEFYgRXfvOh4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Question,788,3,train,train
+UgyrVH5RA5ktPJS-SJl4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,789,3,train,train
+Ugz_Sb_yz_nVuCV0Vw94AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,790,3,train,train
+UgzXnzFwf7i7nwZIcnR4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,791,3,train,train
+Ugwfj0iM2N8AZQ5RuXN4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Question,792,0,test,train
+Ugz3PVEL5xVeBEcX0Dt4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,793,0,test,train
+UgxPeG6e6A0KcexVH914AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Request,794,4,train,train
+UgyZZccphdNjb1XQM0p4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,795,1,train,train
+UgwDFFM-H7B1u48wae94AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,796,0,test,train
+UgyCpn3RV0L925lawbx4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,797,0,test,train
+Ugx8UPDR6q__-1AzvaF4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,798,0,test,train
+UgzP7_WCjIiobVeh7et4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Question,799,1,train,train
+Ugz80O4Bx7qRTxU1ejF4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,800,1,train,train
+UgyvwMNLBzSdwLxPt9R4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,801,1,train,train
+UgxHxMM7FwfJD52Egf94AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Other,802,2,train,train
+UgzrZAm0Av1zdfS4eOl4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Question,803,2,train,train
+UgxwHf_6SwY3zQCS5aB4AaABAg,WJVMytAUSTg,Physics Wallah - Alakh Pandey,Question,804,3,train,train
+Ugxypghvq7i5mxmXT1t4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,805,2,train,train
+UgxmbXglk--32kfIFg94AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,806,4,train,train
+UgzZ6UIWOxw1hnCq9Ux4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Question,807,3,train,train
+UgyGRKt7tNJZ-ZKY36h4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,713,0,test,purged
+Ugx52AUf5Zr7DhcpUtx4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Praise,808,4,train,train
+UgwYcFxCAzuSBLnnICF4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,809,3,train,train
+UgyaPbVY6gsv6MZae7N4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Request,765,4,train,train
+UgxbFW0sWtLHfJmreth4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,810,4,train,train
+UgzyuhqxT2X4oqG-rfF4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,811,4,train,train
+UgxWN7Ff7oJnZtPbMbB4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Question,812,2,train,train
+Ugy4jtmI9LINXNHnVp54AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,813,4,train,train
+UgyLR2vos62znp5a6yh4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,814,4,train,train
+UgxiGLnmCAJz4Pa0f5V4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,815,4,train,train
+UgxtqMuuc850BiwBthp4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Request,794,4,train,train
+UgwPHWo2XgdXS_saz0p4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,816,2,train,train
+UgwUWHj2iRqesVhMfdd4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,816,2,train,train
+UgxReFUXd-HMdA2UuY54AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,817,1,train,train
+UgzdxXl-FhT2bCnKqe94AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Request,818,4,train,train
+UgzZNq1JSd7kaW7C88x4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,819,3,train,train
+UgyVVXkPRGtRMAupcCB4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,820,0,test,train
+Ugx6TWx4_DygJyfB5rx4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,821,3,train,train
+Ugw6xYHcLr8t6muE9TZ4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Question,822,1,train,train
+UgwgjHJ2aDVYA8eNMJp4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,823,3,train,train
+UgxjdM7suNUlTs_KBM54AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,824,2,train,train
+Ugw-XhfsrsFn4Rqxnxx4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,825,0,test,train
+UgxzNcTN1kKiEyMd0_R4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,826,3,train,train
+UgzgAKqox9LPDx72h1B4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,827,4,train,train
+UgyYyCHwOZXabtycAjx4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Question,803,2,train,train
+UgzbrOW0Hd1MkeIK1J94AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Request,828,1,train,train
+Ugy7voQKnfQl-0EKYDx4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,829,0,test,train
+UgykZuI2px6NTHQQe814AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,741,4,train,train
+UgwF9Z_iMk9QJnh4t014AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,785,4,train,train
+UgwZ0fYaBgpB8yCoard4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Question,830,0,test,train
+UgxLErAiZPb0qCA-unR4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,831,1,train,train
+UgyrofG3WzKWDIA7Irx4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,832,2,train,train
+Ugxu9Oc7aUyBR5qig4Z4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,833,4,train,train
+UgxSbHniWeFWNb7ICLR4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Request,834,0,test,train
+Ugxl2urYe82fvH0rgTl4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Question,835,0,test,train
+UgxWX8V5SXknStVFzIB4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,836,3,train,train
+UgzGmab2wsk78Xok7R14AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,837,4,train,train
+UgwZHjgHBjkD8SS1Xuh4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,838,2,train,train
+UgxdEN3ImU6Y8LDsqXp4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,839,0,test,train
+Ugw-tmU0s7d306bGcXt4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,749,3,train,train
+UgwsKO-YMe_ThDy-IMd4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Praise,840,4,train,train
+UgwhmgU-PCjQUJnFltl4AaABAg,tJZKJzJ9Szk,Physics Wallah - Alakh Pandey,Other,746,4,train,train

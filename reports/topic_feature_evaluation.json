@@ -1,0 +1,669 @@
+{
+  "threshold": 0.3,
+  "embeddings_unavailable_reason": "not requested (run with --embeddings)",
+  "results": {
+    "word": {
+      "probes": {
+        "mean_similarity_same_topic": 0.355,
+        "mean_similarity_different_topic": 0.201,
+        "roc_auc": 0.542,
+        "same_topic_pairs_above_threshold": "7/16",
+        "different_topic_pairs_below_threshold": "8/12",
+        "pairs": [
+          {
+            "a": "Python indentation error aa raha hai",
+            "b": "How can I fix indentation error in Python?",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.549
+          },
+          {
+            "a": "Python indentation error aa raha hai",
+            "b": "Indentation issue in my Python code",
+            "kind": "paraphrase",
+            "same_topic": true,
+            "similarity": 0.209
+          },
+          {
+            "a": "How can I fix indentation error in Python?",
+            "b": "Indentation issue in my Python code",
+            "kind": "paraphrase",
+            "same_topic": true,
+            "similarity": 0.157
+          },
+          {
+            "a": "pyhton indentation eror",
+            "b": "python indentation error",
+            "kind": "spelling",
+            "same_topic": true,
+            "similarity": 0.124
+          },
+          {
+            "a": "python ka course bana do please",
+            "b": "please make a python course",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 1.0
+          },
+          {
+            "a": "java me dsa series laao",
+            "b": "DSA in Java please",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.591
+          },
+          {
+            "a": "stock market course launch karo",
+            "b": "please make a trading course",
+            "kind": "synonym",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "machine learning ka video",
+            "b": "ML course please",
+            "kind": "abbreviation",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "notes ka link kaam nahi kar raha",
+            "b": "notes link is not working",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.515
+          },
+          {
+            "a": "मुझे पायथन सीखनी है",
+            "b": "I want to learn python",
+            "kind": "devanagari vs english",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "react hooks samajh nahi aaya",
+            "b": "confused about react hooks",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.531
+          },
+          {
+            "a": "kali linux ka video dalo",
+            "b": "kali linux tutorial please",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 1.0
+          },
+          {
+            "a": "system design course please",
+            "b": "please make a system design playlist",
+            "kind": "paraphrase",
+            "same_topic": true,
+            "similarity": 1.0
+          },
+          {
+            "a": "cyber security course",
+            "b": "cybersecurity batch kab aayega",
+            "kind": "spacing variant",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "devops roadmap please",
+            "b": "dev ops kaise start kare",
+            "kind": "spacing variant",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "AI ML course series",
+            "b": "artificial intelligence and machine learning course",
+            "kind": "abbreviation",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "Python indentation error aa raha hai",
+            "b": "please make a python course",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.361
+          },
+          {
+            "a": "java course please",
+            "b": "java or python which is better for placements?",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.324
+          },
+          {
+            "a": "system design course please",
+            "b": "game design course please",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.27
+          },
+          {
+            "a": "AI course launch karo",
+            "b": "will AI replace software jobs?",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.325
+          },
+          {
+            "a": "stock market course",
+            "b": "market research job kaise milegi",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.212
+          },
+          {
+            "a": "data structures course",
+            "b": "data science roadmap",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.227
+          },
+          {
+            "a": "react course please",
+            "b": "react native app crash ho raha hai",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.307
+          },
+          {
+            "a": "how did you get my phone number?",
+            "b": "coding ke liye kaun sa phone lu?",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.187
+          },
+          {
+            "a": "machine learning course",
+            "b": "washing machine repair video",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.203
+          },
+          {
+            "a": "notes ka link do",
+            "b": "linkedin profile kaise banaye",
+            "kind": "unrelated",
+            "same_topic": false,
+            "similarity": 0.0
+          },
+          {
+            "a": "dynamic programming lectures",
+            "b": "hackathon preparation tips",
+            "kind": "unrelated",
+            "same_topic": false,
+            "similarity": 0.0
+          },
+          {
+            "a": "cloud and devops course",
+            "b": "BCA ke baad kya karu",
+            "kind": "unrelated",
+            "same_topic": false,
+            "similarity": 0.0
+          }
+        ]
+      },
+      "real_data": {
+        "topics": 18,
+        "clustered_comments": 53,
+        "unclustered_comments": 284,
+        "clustered_share": 0.157,
+        "mean_member_similarity": 0.841,
+        "largest_topics": [
+          "DSA Python",
+          "System Design",
+          "Stock Market",
+          "Trading",
+          "AI ML"
+        ]
+      }
+    },
+    "char": {
+      "probes": {
+        "mean_similarity_same_topic": 0.525,
+        "mean_similarity_different_topic": 0.285,
+        "roc_auc": 0.724,
+        "same_topic_pairs_above_threshold": "11/16",
+        "different_topic_pairs_below_threshold": "5/12",
+        "pairs": [
+          {
+            "a": "Python indentation error aa raha hai",
+            "b": "How can I fix indentation error in Python?",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.904
+          },
+          {
+            "a": "Python indentation error aa raha hai",
+            "b": "Indentation issue in my Python code",
+            "kind": "paraphrase",
+            "same_topic": true,
+            "similarity": 0.598
+          },
+          {
+            "a": "How can I fix indentation error in Python?",
+            "b": "Indentation issue in my Python code",
+            "kind": "paraphrase",
+            "same_topic": true,
+            "similarity": 0.541
+          },
+          {
+            "a": "pyhton indentation eror",
+            "b": "python indentation error",
+            "kind": "spelling",
+            "same_topic": true,
+            "similarity": 0.531
+          },
+          {
+            "a": "python ka course bana do please",
+            "b": "please make a python course",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 1.0
+          },
+          {
+            "a": "java me dsa series laao",
+            "b": "DSA in Java please",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 1.0
+          },
+          {
+            "a": "stock market course launch karo",
+            "b": "please make a trading course",
+            "kind": "synonym",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "machine learning ka video",
+            "b": "ML course please",
+            "kind": "abbreviation",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "notes ka link kaam nahi kar raha",
+            "b": "notes link is not working",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.533
+          },
+          {
+            "a": "मुझे पायथन सीखनी है",
+            "b": "I want to learn python",
+            "kind": "devanagari vs english",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "react hooks samajh nahi aaya",
+            "b": "confused about react hooks",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.494
+          },
+          {
+            "a": "kali linux ka video dalo",
+            "b": "kali linux tutorial please",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 1.0
+          },
+          {
+            "a": "system design course please",
+            "b": "please make a system design playlist",
+            "kind": "paraphrase",
+            "same_topic": true,
+            "similarity": 1.0
+          },
+          {
+            "a": "cyber security course",
+            "b": "cybersecurity batch kab aayega",
+            "kind": "spacing variant",
+            "same_topic": true,
+            "similarity": 0.555
+          },
+          {
+            "a": "devops roadmap please",
+            "b": "dev ops kaise start kare",
+            "kind": "spacing variant",
+            "same_topic": true,
+            "similarity": 0.243
+          },
+          {
+            "a": "AI ML course series",
+            "b": "artificial intelligence and machine learning course",
+            "kind": "abbreviation",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "Python indentation error aa raha hai",
+            "b": "please make a python course",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.467
+          },
+          {
+            "a": "java course please",
+            "b": "java or python which is better for placements?",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.335
+          },
+          {
+            "a": "system design course please",
+            "b": "game design course please",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.484
+          },
+          {
+            "a": "AI course launch karo",
+            "b": "will AI replace software jobs?",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.212
+          },
+          {
+            "a": "stock market course",
+            "b": "market research job kaise milegi",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.387
+          },
+          {
+            "a": "data structures course",
+            "b": "data science roadmap",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.205
+          },
+          {
+            "a": "react course please",
+            "b": "react native app crash ho raha hai",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.431
+          },
+          {
+            "a": "how did you get my phone number?",
+            "b": "coding ke liye kaun sa phone lu?",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.364
+          },
+          {
+            "a": "machine learning course",
+            "b": "washing machine repair video",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.397
+          },
+          {
+            "a": "notes ka link do",
+            "b": "linkedin profile kaise banaye",
+            "kind": "unrelated",
+            "same_topic": false,
+            "similarity": 0.129
+          },
+          {
+            "a": "dynamic programming lectures",
+            "b": "hackathon preparation tips",
+            "kind": "unrelated",
+            "same_topic": false,
+            "similarity": 0.015
+          },
+          {
+            "a": "cloud and devops course",
+            "b": "BCA ke baad kya karu",
+            "kind": "unrelated",
+            "same_topic": false,
+            "similarity": 0.0
+          }
+        ]
+      },
+      "real_data": {
+        "topics": 40,
+        "clustered_comments": 114,
+        "unclustered_comments": 223,
+        "clustered_share": 0.338,
+        "mean_member_similarity": 0.839,
+        "largest_topics": [
+          "DSA Python",
+          "Phone Number",
+          "System Design",
+          "Security / Cyber",
+          "Trading"
+        ]
+      }
+    },
+    "word+char": {
+      "probes": {
+        "mean_similarity_same_topic": 0.44,
+        "mean_similarity_different_topic": 0.243,
+        "roc_auc": 0.641,
+        "same_topic_pairs_above_threshold": "10/16",
+        "different_topic_pairs_below_threshold": "7/12",
+        "pairs": [
+          {
+            "a": "Python indentation error aa raha hai",
+            "b": "How can I fix indentation error in Python?",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.726
+          },
+          {
+            "a": "Python indentation error aa raha hai",
+            "b": "Indentation issue in my Python code",
+            "kind": "paraphrase",
+            "same_topic": true,
+            "similarity": 0.404
+          },
+          {
+            "a": "How can I fix indentation error in Python?",
+            "b": "Indentation issue in my Python code",
+            "kind": "paraphrase",
+            "same_topic": true,
+            "similarity": 0.349
+          },
+          {
+            "a": "pyhton indentation eror",
+            "b": "python indentation error",
+            "kind": "spelling",
+            "same_topic": true,
+            "similarity": 0.327
+          },
+          {
+            "a": "python ka course bana do please",
+            "b": "please make a python course",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 1.0
+          },
+          {
+            "a": "java me dsa series laao",
+            "b": "DSA in Java please",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.796
+          },
+          {
+            "a": "stock market course launch karo",
+            "b": "please make a trading course",
+            "kind": "synonym",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "machine learning ka video",
+            "b": "ML course please",
+            "kind": "abbreviation",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "notes ka link kaam nahi kar raha",
+            "b": "notes link is not working",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.524
+          },
+          {
+            "a": "मुझे पायथन सीखनी है",
+            "b": "I want to learn python",
+            "kind": "devanagari vs english",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "react hooks samajh nahi aaya",
+            "b": "confused about react hooks",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 0.513
+          },
+          {
+            "a": "kali linux ka video dalo",
+            "b": "kali linux tutorial please",
+            "kind": "hinglish vs english",
+            "same_topic": true,
+            "similarity": 1.0
+          },
+          {
+            "a": "system design course please",
+            "b": "please make a system design playlist",
+            "kind": "paraphrase",
+            "same_topic": true,
+            "similarity": 1.0
+          },
+          {
+            "a": "cyber security course",
+            "b": "cybersecurity batch kab aayega",
+            "kind": "spacing variant",
+            "same_topic": true,
+            "similarity": 0.277
+          },
+          {
+            "a": "devops roadmap please",
+            "b": "dev ops kaise start kare",
+            "kind": "spacing variant",
+            "same_topic": true,
+            "similarity": 0.122
+          },
+          {
+            "a": "AI ML course series",
+            "b": "artificial intelligence and machine learning course",
+            "kind": "abbreviation",
+            "same_topic": true,
+            "similarity": 0.0
+          },
+          {
+            "a": "Python indentation error aa raha hai",
+            "b": "please make a python course",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.414
+          },
+          {
+            "a": "java course please",
+            "b": "java or python which is better for placements?",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.329
+          },
+          {
+            "a": "system design course please",
+            "b": "game design course please",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.377
+          },
+          {
+            "a": "AI course launch karo",
+            "b": "will AI replace software jobs?",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.268
+          },
+          {
+            "a": "stock market course",
+            "b": "market research job kaise milegi",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.3
+          },
+          {
+            "a": "data structures course",
+            "b": "data science roadmap",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.216
+          },
+          {
+            "a": "react course please",
+            "b": "react native app crash ho raha hai",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.369
+          },
+          {
+            "a": "how did you get my phone number?",
+            "b": "coding ke liye kaun sa phone lu?",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.276
+          },
+          {
+            "a": "machine learning course",
+            "b": "washing machine repair video",
+            "kind": "shared keyword",
+            "same_topic": false,
+            "similarity": 0.3
+          },
+          {
+            "a": "notes ka link do",
+            "b": "linkedin profile kaise banaye",
+            "kind": "unrelated",
+            "same_topic": false,
+            "similarity": 0.064
+          },
+          {
+            "a": "dynamic programming lectures",
+            "b": "hackathon preparation tips",
+            "kind": "unrelated",
+            "same_topic": false,
+            "similarity": 0.007
+          },
+          {
+            "a": "cloud and devops course",
+            "b": "BCA ke baad kya karu",
+            "kind": "unrelated",
+            "same_topic": false,
+            "similarity": 0.0
+          }
+        ]
+      },
+      "real_data": {
+        "topics": 27,
+        "clustered_comments": 76,
+        "unclustered_comments": 261,
+        "clustered_share": 0.226,
+        "mean_member_similarity": 0.836,
+        "largest_topics": [
+          "DSA Python",
+          "System Design",
+          "Trading",
+          "Phone Number",
+          "AI ML"
+        ]
+      }
+    }
+  }
+}
